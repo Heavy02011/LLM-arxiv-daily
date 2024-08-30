@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "XuzhaoLi"
-repo_name: "ro-arxiv-daily"
+user_name: "heavy02011"
+repo_name: "LLM-arxiv-daily"
 show_authors: True
 show_links: True
 max_results: 20
@@ -18,9 +18,9 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    "Path Planning":
-        filters: ["Minimum Control", "Route Planning", "Dynamic Programming", "Navigation", "Route Optimization", "Map Matching"]
+    "RAG":
+        filters: ["Retrieval Augmented Generation", "RAG", "RAG Evaluation", "RAG Benchmark", "RAG Agent"]
     "Large Language Model":
-        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning", "Foundation Model"]
-    "Autonomous Driving":
-        filters: ["Autonomous Driving", "Planning", "Perception", "Decision Making", "Forecasting"]
+        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning", "Foundation Model", "agents"]
+    "Construction":
+        filters: ["Construction", "Design", "BIM", "robots in construction", "cost optimization"]
