@@ -5470,3 +5470,53 @@ layout: default
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
+## RAG
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
+|**2024-08-29**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533](http://arxiv.org/abs/2408.15533)|**[link](https://github.com/tomsawyerhu/lrp4rag)**|
+|**2024-08-27**|**Measuring text summarization factuality using atomic facts entailment metrics in the context of retrieval augmented generation**|N. E. Kriman et.al.|[2408.15171](http://arxiv.org/abs/2408.15171)|null|
+|**2024-08-27**|**Text2SQL is Not Enough: Unifying AI and Databases with TAG**|Asim Biswal et.al.|[2408.14717](http://arxiv.org/abs/2408.14717)|**[link](https://github.com/tag-research/tag-bench)**|
+|**2024-08-26**|**Retrieval Augmented Generation for Dynamic Graph Modeling**|Yuxia Wu et.al.|[2408.14523](http://arxiv.org/abs/2408.14523)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**Claim Verification in the Age of Large Language Models: A Survey**|Alphaeus Dmonte et.al.|[2408.14317](http://arxiv.org/abs/2408.14317)|null|
+|**2024-08-25**|**Biomedical Large Languages Models Seem not to be Superior to Generalist Models on Unseen Medical Data**|Felix J. Dorfner et.al.|[2408.13833](http://arxiv.org/abs/2408.13833)|null|
+|**2024-08-25**|**Towards Reliable Medical Question Answering: Techniques and Challenges in Mitigating Hallucinations in Language Models**|Duy Khoa Pham et.al.|[2408.13808](http://arxiv.org/abs/2408.13808)|null|
+|**2024-08-24**|**Pandora's Box or Aladdin's Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models**|Jinyang Wu et.al.|[2408.13533](http://arxiv.org/abs/2408.13533)|null|
+|**2024-08-24**|**vitaLITy 2: Reviewing Academic Literature Using Large Language Models**|Hongye An et.al.|[2408.13450](http://arxiv.org/abs/2408.13450)|null|
+|**2024-08-23**|**CodeRefine: A Pipeline for Enhancing LLM-Generated Code Implementations of Research Papers**|Ekaterina Trofimova et.al.|[2408.13366](http://arxiv.org/abs/2408.13366)|null|
+|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
+|**2024-08-22**|**LLMs are not Zero-Shot Reasoners for Biomedical Information Extraction**|Aishik Nagar et.al.|[2408.12249](http://arxiv.org/abs/2408.12249)|null|
+|**2024-08-21**|**RAG-Optimized Tibetan Tourism LLMs: Enhancing Accuracy and Personalization**|Jinhu Qi et.al.|[2408.12003](http://arxiv.org/abs/2408.12003)|null|
+|**2024-08-23**|**Ancient Wisdom, Modern Tools: Exploring Retrieval-Augmented LLMs for Ancient Indian Philosophy**|Priyanka Mandikal et.al.|[2408.11903](http://arxiv.org/abs/2408.11903)|**[link](https://github.com/priyankamandikal/vedantany-10m)**|
+|**2024-08-21**|**PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain**|Rounak Meyur et.al.|[2408.11800](http://arxiv.org/abs/2408.11800)|null|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
+|**2024-08-23**|**Xinyu: An Efficient LLM-based System for Commentary Generation**|Yiquan Wu et.al.|[2408.11609](http://arxiv.org/abs/2408.11609)|null|
+
+## Construction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**MONAS: Efficient Zero-Shot Neural Architecture Search for MCUs**|Ye Qiao et.al.|[2408.15034](http://arxiv.org/abs/2408.15034)|null|
+|**2024-08-28**|**Physics-Informed Neural Network for Concrete Manufacturing Process Optimization**|Sam Varghese et.al.|[2408.14502](http://arxiv.org/abs/2408.14502)|null|
+|**2024-08-13**|**An Infrastructure Cost Optimised Algorithm for Partitioning of Microservices**|Kalyani V N S Pendyala et.al.|[2408.06570](http://arxiv.org/abs/2408.06570)|null|
+|**2024-08-06**|**A Deep Reinforcement Learning Approach for Cost Optimized Workflow Scheduling in Cloud Computing Environments**|Amanda Jayanetti et.al.|[2408.02926](http://arxiv.org/abs/2408.02926)|null|
+|**2024-07-12**|**Cost-optimized probabilistic maintenance for condition monitoring of wind turbines with rare failures**|Viktor Begun et.al.|[2407.09385](http://arxiv.org/abs/2407.09385)|null|
+|**2024-07-11**|**GCS*: Forward Heuristic Search on Implicit Graphs of Convex Sets**|Shao Yuan Chew Chia et.al.|[2407.08848](http://arxiv.org/abs/2407.08848)|null|
+|**2024-07-08**|**Minimum-regret hydrogen supply chain strategies to foster the energy transition of European hard-to-abate industries**|Alissa Ganter et.al.|[2407.05988](http://arxiv.org/abs/2407.05988)|null|
+|**2024-07-08**|**Circuit Partitioning and Transmission Cost Optimization in Distributed Quantum Computing**|Xinyu Chen et.al.|[2407.05953](http://arxiv.org/abs/2407.05953)|null|
+|**2024-07-04**|**Optimization dynamics and fluctuations in the self-organization of vascular networks**|Konstantin Klemm et.al.|[2407.04120](http://arxiv.org/abs/2407.04120)|null|
+|**2024-06-16**|**Enhancing Supermarket Robot Interaction: A Multi-Level LLM Conversational Interface for Handling Diverse Customer Intents**|Chandran Nandkumar et.al.|[2406.11047](http://arxiv.org/abs/2406.11047)|null|
+|**2024-05-27**|**Measuring Exploration: Review and Systematic Evaluation of Modelling to Generate Alternatives Methods in Macro-Energy Systems Planning Models**|Michael Lau et.al.|[2405.17342](http://arxiv.org/abs/2405.17342)|null|
+|**2024-05-29**|**A Declarative System for Optimizing AI Workloads**|Chunwei Liu et.al.|[2405.14696](http://arxiv.org/abs/2405.14696)|**[link](https://github.com/mitdbg/palimpzest)**|
+|**2024-05-23**|**Representative electricity price profiles for European day-ahead and intraday spot markets**|Chrysanthi Papadimitriou et.al.|[2405.14403](http://arxiv.org/abs/2405.14403)|null|
+|**2024-05-20**|**Cost-Optimal Microservices Deployment with Cluster Autoscaling and Spot Pricing**|Dasith Edirisinghe et.al.|[2405.12311](http://arxiv.org/abs/2405.12311)|null|
+|**2024-05-13**|**Symmetric Clifford twirling for cost-optimal quantum error mitigation in early FTQC regime**|Kento Tsubouchi et.al.|[2405.07720](http://arxiv.org/abs/2405.07720)|null|
+|**2024-04-22**|**Efficiency and Cost Optimization of Dual Active Bridge Converter for 350kW DC Fast Chargers**|Sadik Cinik et.al.|[2404.14557](http://arxiv.org/abs/2404.14557)|null|
+|**2024-05-12**|**Robotic deployment on construction sites: considerations for safety and productivity impact**|Rafael Gomes Braga et.al.|[2404.13143](http://arxiv.org/abs/2404.13143)|null|
+|**2024-04-02**|**Aggregate Peak EV Charging Demand: The Impact of Segmented Network Tariffs**|Nanda Kishor Panda et.al.|[2403.12215](http://arxiv.org/abs/2403.12215)|null|
+|**2024-02-29**|**H $_2$ and CO$_2$ Network Strategies for the European Energy System**|Fabian Hofmann et.al.|[2402.19042](http://arxiv.org/abs/2402.19042)|null|
+|**2024-07-31**|**Impact of data for forecasting on performance of model predictive control in buildings with smart energy storage**|Max Langtry et.al.|[2402.12539](http://arxiv.org/abs/2402.12539)|null|
+
