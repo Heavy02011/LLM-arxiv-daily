@@ -10,11 +10,11 @@ publish_readme: True
 publish_gitpage: True
 
 # file paths
-json_readme_path: './docs/LLM-arxiv-daily.json'
-json_gitpage_path: './docs/LLM-arxiv-daily-web.json'
+json_readme_path: './docs/ro-arxiv-daily.json'
+json_gitpage_path: './docs/ro-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
-md_gitpage_path: './docs/LLM-index.md'
+md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
