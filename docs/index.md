@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5524,7 +5524,7 @@ layout: default
 |**2024-09-03**|**Benchmarking Cognitive Domains for LLMs: Insights from Taiwanese Hakka Culture**|Chen-Chi Chang et.al.|[2409.01556](http://arxiv.org/abs/2409.01556)|null|
 |**2024-09-02**|**The Compressor-Retriever Architecture for Language Model OS**|Yuan Yang et.al.|[2409.01495](http://arxiv.org/abs/2409.01495)|**[link](https://github.com/gblackout/lm-os)**|
 |**2024-09-01**|**A Learnable Agent Collaboration Network Framework for Personalized Multimodal AI Search Engine**|Yunxiao Shi et.al.|[2409.00636](http://arxiv.org/abs/2409.00636)|null|
-|**2024-08-31**|**GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems**|Haowen Xu et.al.|[2409.00494](http://arxiv.org/abs/2409.00494)|null|
+|**2024-09-04**|**GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems**|Haowen Xu et.al.|[2409.00494](http://arxiv.org/abs/2409.00494)|null|
 |**2024-08-26**|**Evaluating ChatGPT on Nuclear Domain-Specific Data**|Muhammad Anwar et.al.|[2409.00090](http://arxiv.org/abs/2409.00090)|null|
 |**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
