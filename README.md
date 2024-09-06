@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution**|Marga Don et.al.|[2409.03754](http://arxiv.org/abs/2409.03754)|**[link](https://github.com/theoceancleanup/rivertrashsegmentation)**|
+|**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752](http://arxiv.org/abs/2409.03752)|**[link](https://github.com/iaar-shanghai/awesome-attention-heads)**|
+|**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735](http://arxiv.org/abs/2409.03735)|null|
+|**2024-09-05**|**Safety vs. Performance: How Multi-Objective Learning Reduces Barriers to Market Entry**|Meena Jagadeesan et.al.|[2409.03734](http://arxiv.org/abs/2409.03734)|null|
+|**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
+|**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|null|
+|**2024-09-05**|**A Fused Large Language Model for Predicting Startup Success**|Abdurahman Maarouf et.al.|[2409.03668](http://arxiv.org/abs/2409.03668)|null|
+|**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662](http://arxiv.org/abs/2409.03662)|**[link](https://github.com/diegodoimo/geometry_icl_finetuning)**|
+|**2024-09-05**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
+|**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650](http://arxiv.org/abs/2409.03650)|null|
+|**2024-09-05**|**Text-Guided Mixup Towards Long-Tailed Image Categorization**|Richard Franklin et.al.|[2409.03583](http://arxiv.org/abs/2409.03583)|**[link](https://github.com/rsamf/text-guided-mixup)**|
+|**2024-09-05**|**FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation**|Xi Chen et.al.|[2409.03525](http://arxiv.org/abs/2409.03525)|null|
+|**2024-09-05**|**Have Large Vision-Language Models Mastered Art History?**|Ombretta Strafforello et.al.|[2409.03521](http://arxiv.org/abs/2409.03521)|null|
+|**2024-09-05**|**Tissue Concepts: supervised foundation models in computational pathology**|Till Nicke et.al.|[2409.03519](http://arxiv.org/abs/2409.03519)|**[link](https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling)**|
+|**2024-09-05**|**From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents**|Jifan Yu et.al.|[2409.03512](http://arxiv.org/abs/2409.03512)|null|
+|**2024-09-05**|**LLM-based event abstraction and integration for IoT-sourced logs**|Mohsen Shirali et.al.|[2409.03478](http://arxiv.org/abs/2409.03478)|null|
+|**2024-09-05**|**How Much Data is Enough Data? Fine-Tuning Large Language Models for In-House Translation: Performance Evaluation Across Multiple Dataset Sizes**|Inacio Vieira et.al.|[2409.03454](http://arxiv.org/abs/2409.03454)|null|
 |**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
 |**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
@@ -5527,11 +5547,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-05**|**GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding**|Yukun Cao et.al.|[2409.03258](http://arxiv.org/abs/2409.03258)|null|
+|**2024-09-05**|**MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented Generation Question Answering**|Mitchell DeHaven et.al.|[2409.03171](http://arxiv.org/abs/2409.03171)|null|
 |**2024-09-04**|**Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant**|Joshua Pickard et.al.|[2409.02864](http://arxiv.org/abs/2409.02864)|null|
 |**2024-09-04**|**Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for PostNL**|Mohammad Reshadati et.al.|[2409.02711](http://arxiv.org/abs/2409.02711)|null|
 |**2024-09-04**|**Advancing Cyber Incident Timeline Analysis Through Rule Based AI and Large Language Models**|Fatma Yasmine Loumachi et.al.|[2409.02572](http://arxiv.org/abs/2409.02572)|null|
 |**2024-09-04**|**Diversify-verify-adapt: Efficient and Robust Retrieval-Augmented Ambiguous Question Answering**|Yeonjun In et.al.|[2409.02361](http://arxiv.org/abs/2409.02361)|null|
-|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|null|
+|**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|**[link](https://github.com/szeighami/nudge)**|
 |**2024-09-03**|**The Role of Large Language Models in Musicology: Are We Ready to Trust the Machines?**|Pedro Ramoneda et.al.|[2409.01864](http://arxiv.org/abs/2409.01864)|null|
 |**2024-09-03**|**In Defense of RAG in the Era of Long-Context Language Models**|Tan Yu et.al.|[2409.01666](http://arxiv.org/abs/2409.01666)|null|
 |**2024-09-03**|**Benchmarking Cognitive Domains for LLMs: Insights from Taiwanese Hakka Culture**|Chen-Chi Chang et.al.|[2409.01556](http://arxiv.org/abs/2409.01556)|null|
