@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5661,7 +5661,7 @@ layout: default
 |**2024-09-12**|**Experimenting with Legal AI Solutions: The Case of Question-Answering for Access to Justice**|Jonathan Li et.al.|[2409.07713](http://arxiv.org/abs/2409.07713)|null|
 |**2024-09-12**|**Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG**|Gabriel de Souza P. Moreira et.al.|[2409.07691](http://arxiv.org/abs/2409.07691)|null|
 |**2024-09-13**|**RAGent: Retrieval-based Access Control Policy Generation**|Sakuna Harinda Jayasundara et.al.|[2409.07489](http://arxiv.org/abs/2409.07489)|**[link](https://github.com/accessframework/RAGent)**|
-|**2024-09-04**|**MoA is All You Need: Building LLM Research Team using Mixture of Agents**|Sandy Chen et.al.|[2409.07487](http://arxiv.org/abs/2409.07487)|null|
+|**2024-09-13**|**MoA is All You Need: Building LLM Research Team using Mixture of Agents**|Sandy Chen et.al.|[2409.07487](http://arxiv.org/abs/2409.07487)|null|
 |**2024-09-11**|**Synthetic continued pretraining**|Zitong Yang et.al.|[2409.07431](http://arxiv.org/abs/2409.07431)|**[link](https://github.com/zitongyang/synthetic_continued_pretraining)**|
 |**2024-09-11**|**Bio-Eng-LMM AI Assist chatbot: A Comprehensive Tool for Research and Education**|Ali Forootani et.al.|[2409.07110](http://arxiv.org/abs/2409.07110)|null|
 |**2024-09-10**|**GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering**|Sacha Muller et.al.|[2409.06595](http://arxiv.org/abs/2409.06595)|**[link](https://github.com/illuin-tech/grouse)**|
