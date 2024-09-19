@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5767,7 +5767,7 @@ layout: default
 |**2024-08-13**|**An Infrastructure Cost Optimised Algorithm for Partitioning of Microservices**|Kalyani V N S Pendyala et.al.|[2408.06570](http://arxiv.org/abs/2408.06570)|null|
 |**2024-08-06**|**A Deep Reinforcement Learning Approach for Cost Optimized Workflow Scheduling in Cloud Computing Environments**|Amanda Jayanetti et.al.|[2408.02926](http://arxiv.org/abs/2408.02926)|null|
 |**2024-07-12**|**Cost-optimized probabilistic maintenance for condition monitoring of wind turbines with rare failures**|Viktor Begun et.al.|[2407.09385](http://arxiv.org/abs/2407.09385)|null|
-|**2024-07-11**|**GCS*: Forward Heuristic Search on Implicit Graphs of Convex Sets**|Shao Yuan Chew Chia et.al.|[2407.08848](http://arxiv.org/abs/2407.08848)|null|
+|**2024-09-18**|**GCS*: Forward Heuristic Search on Implicit Graphs of Convex Sets**|Shao Yuan Chew Chia et.al.|[2407.08848](http://arxiv.org/abs/2407.08848)|null|
 |**2024-07-08**|**Minimum-regret hydrogen supply chain strategies to foster the energy transition of European hard-to-abate industries**|Alissa Ganter et.al.|[2407.05988](http://arxiv.org/abs/2407.05988)|null|
 |**2024-07-08**|**Circuit Partitioning and Transmission Cost Optimization in Distributed Quantum Computing**|Xinyu Chen et.al.|[2407.05953](http://arxiv.org/abs/2407.05953)|null|
 |**2024-07-04**|**Optimization dynamics and fluctuations in the self-organization of vascular networks**|Konstantin Klemm et.al.|[2407.04120](http://arxiv.org/abs/2407.04120)|null|
