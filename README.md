@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -294,12 +294,32 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**LLM Echo Chamber: personalized and automated disinformation**|Tony Ma et.al.|[2409.16241](http://arxiv.org/abs/2409.16241)|**[link](https://github.com/iamtonymwt/echo_chamber)**|
+|**2024-09-24**|**EuroLLM: Multilingual Language Models for Europe**|Pedro Henrique Martins et.al.|[2409.16235](http://arxiv.org/abs/2409.16235)|null|
+|**2024-09-24**|**Fine-Tuning is Fine, if Calibrated**|Zheda Mai et.al.|[2409.16223](http://arxiv.org/abs/2409.16223)|null|
+|**2024-09-24**|**Towards Enhancing Linked Data Retrieval in Conversational UIs using Large Language Models**|Omar Mussa et.al.|[2409.16220](http://arxiv.org/abs/2409.16220)|null|
+|**2024-09-24**|**LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM**|Boyan Li et.al.|[2409.16209](http://arxiv.org/abs/2409.16209)|null|
+|**2024-09-24**|**CJEval: A Benchmark for Assessing Large Language Models Using Chinese Junior High School Exam Data**|Qianwen Zhang et.al.|[2409.16202](http://arxiv.org/abs/2409.16202)|**[link](https://github.com/smilewhc/cjeval)**|
+|**2024-09-24**|**Leveraging Estimated Transferability Over Human Intuition for Model Selection in Text Ranking**|Jun Bai et.al.|[2409.16198](http://arxiv.org/abs/2409.16198)|null|
+|**2024-09-24**|**HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models**|Haoran Que et.al.|[2409.16191](http://arxiv.org/abs/2409.16191)|**[link](https://github.com/quehry/hellobench)**|
+|**2024-09-24**|**Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**|Xiaohong Liu et.al.|[2409.16183](http://arxiv.org/abs/2409.16183)|null|
+|**2024-09-24**|**SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image**|Dimitrije Antić et.al.|[2409.16178](http://arxiv.org/abs/2409.16178)|null|
+|**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
+|**2024-09-24**|**Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering**|Ziyu Zhao et.al.|[2409.16167](http://arxiv.org/abs/2409.16167)|null|
+|**2024-09-24**|**EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges**|Talor Abramovich et.al.|[2409.16165](http://arxiv.org/abs/2409.16165)|**[link](https://github.com/princeton-nlp/swe-agent)**|
+|**2024-09-24**|**ComiCap: A VLMs pipeline for dense captioning of Comic Panels**|Emanuele Vivoli et.al.|[2409.16159](http://arxiv.org/abs/2409.16159)|**[link](https://github.com/emanuelevivoli/comicap)**|
+|**2024-09-24**|**Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework**|Lu Chen et.al.|[2409.16146](http://arxiv.org/abs/2409.16146)|null|
+|**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-25**|**Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration**|Pin-Jui Ku et.al.|[2409.16117](http://arxiv.org/abs/2409.16117)|null|
+|**2024-09-24**|**Exploring Hint Generation Approaches in Open-Domain Question Answering**|Jamshid Mozafari et.al.|[2409.16096](http://arxiv.org/abs/2409.16096)|**[link](https://github.com/datascienceuibk/hintqa)**|
 |**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
@@ -3323,7 +3343,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5721,12 +5741,32 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## RAG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**REBEL: Rule-based and Experience-enhanced Learning with LLMs for Initial Task Allocation in Multi-Human Multi-Robot Teams**|Arjun Gupte et.al.|[2409.16266](http://arxiv.org/abs/2409.16266)|null|
+|**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
+|**2024-09-24**|**Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework**|Lu Chen et.al.|[2409.16146](http://arxiv.org/abs/2409.16146)|null|
+|**2024-09-24**|**AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support**|Adil Bahaj et.al.|[2409.15815](http://arxiv.org/abs/2409.15815)|null|
+|**2024-09-24**|**IRSC: A Zero-shot Evaluation Benchmark for Information Retrieval through Semantic Comprehension in Retrieval-Augmented Generation Scenarios**|Hai Lin et.al.|[2409.15763](http://arxiv.org/abs/2409.15763)|null|
+|**2024-09-24**|**Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation**|Zheng Liu et.al.|[2409.15699](http://arxiv.org/abs/2409.15699)|null|
+|**2024-09-23**|**GEM-RAG: Graphical Eigen Memories For Retrieval Augmented Generation**|Brendan Hogan Rappazzo et.al.|[2409.15566](http://arxiv.org/abs/2409.15566)|null|
+|**2024-09-23**|**Learning When to Retrieve, What to Rewrite, and How to Respond in Conversational QA**|Nirmal Roy et.al.|[2409.15515](http://arxiv.org/abs/2409.15515)|null|
+|**2024-09-23**|**Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation**|Yi-Fei Zhao et.al.|[2409.15260](http://arxiv.org/abs/2409.15260)|null|
+|**2024-09-24**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
+|**2024-09-23**|**Lessons Learned on Information Retrieval in Electronic Health Records: A Comparison of Embedding Models and Pooling Strategies**|Skatje Myers et.al.|[2409.15163](http://arxiv.org/abs/2409.15163)|null|
+|**2024-09-23**|**Enhancing Scientific Reproducibility Through Automated BioCompute Object Creation Using Retrieval-Augmented Generation from Publications**|Sean Kim et.al.|[2409.15076](http://arxiv.org/abs/2409.15076)|null|
+|**2024-09-23**|**Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely**|Siyun Zhao et.al.|[2409.14924](http://arxiv.org/abs/2409.14924)|null|
+|**2024-09-23**|**InterMind: A Doctor-Patient-Family Interactive Depression Assessment System Empowered by Large Language Models**|Zhiyuan Zhou et.al.|[2409.14878](http://arxiv.org/abs/2409.14878)|null|
+|**2024-09-23**|**Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination**|Marissa Radensky et.al.|[2409.14634](http://arxiv.org/abs/2409.14634)|null|
+|**2024-09-22**|**Beyond Words: Evaluating Large Language Models in Transportation Planning**|Shaowei Ying et.al.|[2409.14516](http://arxiv.org/abs/2409.14516)|null|
+|**2024-09-21**|**AI Assistants for Spaceflight Procedures: Combining Generative Pre-Trained Transformer and Retrieval-Augmented Generation on Knowledge Graphs With Augmented Reality Cues**|Oliver Bensch et.al.|[2409.14206](http://arxiv.org/abs/2409.14206)|null|
+|**2024-09-21**|**Knowledge in Triples for LLMs: Enhancing Table QA Accuracy with Semantic Extraction**|Hossein Sholehrasa et.al.|[2409.14192](http://arxiv.org/abs/2409.14192)|null|
+|**2024-09-21**|**QMOS: Enhancing LLMs for Telecommunication with Question Masked loss and Option Shuffling**|Blessed Guda et.al.|[2409.14175](http://arxiv.org/abs/2409.14175)|null|
+|**2024-09-21**|**SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**|Jiashuo Sun et.al.|[2409.14083](http://arxiv.org/abs/2409.14083)|null|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
 |**2024-09-17**|**Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation**|To Eun Kim et.al.|[2409.11598](http://arxiv.org/abs/2409.11598)|**[link](https://github.com/kimdanny/fair-rag)**|
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
@@ -5792,12 +5832,13 @@
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-23**|**Xinyu: An Efficient LLM-based System for Commentary Generation**|Yiquan Wu et.al.|[2408.11609](http://arxiv.org/abs/2408.11609)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Construction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-19**|**Sustainable Placement with Cost Minimization in Wireless Digital Twin Networks**|Yuzhi Zhou et.al.|[2409.12504](http://arxiv.org/abs/2409.12504)|null|
 |**2024-09-12**|**Enabling Cost-Effective UI Automation Testing with Retrieval-Based LLMs: A Case Study in WeChat**|Sidong Feng et.al.|[2409.07829](http://arxiv.org/abs/2409.07829)|null|
 |**2024-08-26**|**MONAS: Efficient Zero-Shot Neural Architecture Search for MCUs**|Ye Qiao et.al.|[2408.15034](http://arxiv.org/abs/2408.15034)|null|
 |**2024-08-28**|**Physics-Informed Neural Network for Concrete Manufacturing Process Optimization**|Sam Varghese et.al.|[2408.14502](http://arxiv.org/abs/2408.14502)|null|
@@ -5820,5 +5861,5 @@
 |**2024-09-16**|**H $_2$ and CO$_2$ Network Strategies for the European Energy System**|Fabian Hofmann et.al.|[2402.19042](http://arxiv.org/abs/2402.19042)|null|
 |**2024-07-31**|**Impact of data for forecasting on performance of model predictive control in buildings with smart energy storage**|Max Langtry et.al.|[2402.12539](http://arxiv.org/abs/2402.12539)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
