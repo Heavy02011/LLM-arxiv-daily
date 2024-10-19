@@ -299,7 +299,7 @@ layout: default
 |**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
-|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models**|Qiaoyu Tang et.al.|[2410.13841](http://arxiv.org/abs/2410.13841)|null|
 |**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
 |**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828](http://arxiv.org/abs/2410.13828)|null|
@@ -6050,7 +6050,7 @@ layout: default
 |**2024-10-16**|**MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models**|Peng Xia et.al.|[2410.13085](http://arxiv.org/abs/2410.13085)|**[link](https://github.com/richard-peng-xia/mmed-rag)**|
 |**2024-10-16**|**Is Semantic Chunking Worth the Computational Cost?**|Renyi Qu et.al.|[2410.13070](http://arxiv.org/abs/2410.13070)|null|
 |**2024-10-16**|**REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models**|Ambuje Gupta et.al.|[2410.12890](http://arxiv.org/abs/2410.12890)|null|
-|**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788](http://arxiv.org/abs/2410.12788)|null|
+|**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788](http://arxiv.org/abs/2410.12788)|**[link](https://github.com/IAAR-Shanghai/Meta-Chunking)**|
 |**2024-10-17**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532](http://arxiv.org/abs/2410.12532)|null|
 |**2024-10-17**|**Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering**|Lu Shi et.al.|[2410.12475](http://arxiv.org/abs/2410.12475)|null|
 |**2024-10-16**|**Evaluation of Attribution Bias in Retrieval-Augmented Large Language Models**|Amin Abolghasemi et.al.|[2410.12380](http://arxiv.org/abs/2410.12380)|null|
