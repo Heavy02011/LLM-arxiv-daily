@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6099,7 +6099,7 @@ layout: default
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
 |**2024-10-22**|**ViMGuard: A Novel Multi-Modal System for Video Misinformation Guarding**|Andrew Kan et.al.|[2410.16592](http://arxiv.org/abs/2410.16592)|null|
 |**2024-10-21**|**Towards a Reliable Offline Personal AI Assistant for Long Duration Spaceflight**|Oliver Bensch et.al.|[2410.16397](http://arxiv.org/abs/2410.16397)|null|
-|**2024-10-21**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229](http://arxiv.org/abs/2410.16229)|null|
+|**2024-10-21**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229](http://arxiv.org/abs/2410.16229)|**[link](https://github.com/NEUIR/CONAN)**|
 |**2024-10-21**|**Developing Retrieval Augmented Generation (RAG) based LLM Systems from PDFs: An Experience Report**|Ayman Asad Khan et.al.|[2410.15944](http://arxiv.org/abs/2410.15944)|**[link](https://github.com/gpt-laboratory/rag-llm-development-guidebook-from-pdfs)**|
 |**2024-10-21**|**Using GPT Models for Qualitative and Quantitative News Analytics in the 2024 US Presidental Election Process**|Bohdan M. Pavlyshenko et.al.|[2410.15884](http://arxiv.org/abs/2410.15884)|null|
 |**2024-10-21**|**RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for IT Operations and Maintenance**|Tianyang Zhang et.al.|[2410.15805](http://arxiv.org/abs/2410.15805)|null|
@@ -6113,7 +6113,7 @@ layout: default
 |**2024-10-20**|**Unveiling and Consulting Core Experts in Retrieval-Augmented MoE-based LLMs**|Xin Zhou et.al.|[2410.15438](http://arxiv.org/abs/2410.15438)|null|
 |**2024-10-20**|**MMCS: A Multimodal Medical Diagnosis System Integrating Image Analysis and Knowledge-based Departmental Consultation**|Yi Ren et.al.|[2410.15403](http://arxiv.org/abs/2410.15403)|null|
 |**2024-10-20**|**EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models**|Junhao Hu et.al.|[2410.15332](http://arxiv.org/abs/2410.15332)|null|
-|**2024-10-20**|**Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework**|Yuchen Wang et.al.|[2410.15285](http://arxiv.org/abs/2410.15285)|null|
+|**2024-10-20**|**Contextual Augmented Multi-Model Programming (CAMP): A Hybrid Local-Cloud Copilot Framework**|Yuchen Wang et.al.|[2410.15285](http://arxiv.org/abs/2410.15285)|**[link](https://github.com/intitni/copilotforxcode)**|
 |**2024-10-20**|**Customized FinGPT Search Agents Using Foundation Models**|Felix Tian et.al.|[2410.15284](http://arxiv.org/abs/2410.15284)|null|
 |**2024-10-20**|**BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Compression**|Yuankai Li et.al.|[2410.15277](http://arxiv.org/abs/2410.15277)|null|
 |**2024-10-20**|**When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep Secret or Forget Knowledge?**|Shang Wang et.al.|[2410.15267](http://arxiv.org/abs/2410.15267)|null|
