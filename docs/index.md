@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
+|**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128](http://arxiv.org/abs/2411.15128)|null|
+|**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
+|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
+|**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
+|**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
+|**2024-11-22**|**What You See is Not What You Get: Neural Partial Differential Equations and The Illusion of Learning**|Arvind Mohan et.al.|[2411.15101](http://arxiv.org/abs/2411.15101)|null|
+|**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
+|**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
+|**2024-11-22**|**mR $^2$ AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**|Tao Zhang et.al.|[2411.15041](http://arxiv.org/abs/2411.15041)|null|
+|**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033](http://arxiv.org/abs/2411.15033)|null|
+|**2024-11-22**|**Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot**|Simone Colombani et.al.|[2411.15027](http://arxiv.org/abs/2411.15027)|null|
+|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|
+|**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[2411.15007](http://arxiv.org/abs/2411.15007)|null|
+|**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
+|**2024-11-22**|**Generative AI may backfire for counterspeech**|Dominik Bär et.al.|[2411.14986](http://arxiv.org/abs/2411.14986)|null|
+|**2024-11-22**|**Exploring Foundation Models Fine-Tuning for Cytology Classification**|Manon Dausort et.al.|[2411.14975](http://arxiv.org/abs/2411.14975)|**[link](https://github.com/mdausort/Cytology-fine-tuning)**|
+|**2024-11-22**|**Open-Amp: Synthetic Data Framework for Audio Effect Foundation Models**|Alec Wright et.al.|[2411.14972](http://arxiv.org/abs/2411.14972)|null|
+|**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
+|**2024-11-22**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**|Jieming Bian et.al.|[2411.14961](http://arxiv.org/abs/2411.14961)|null|
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
@@ -6514,6 +6534,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**mR $^2$ AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**|Tao Zhang et.al.|[2411.15041](http://arxiv.org/abs/2411.15041)|null|
+|**2024-11-22**|**KBAda: Efficient Self Adaptation on Specific Knowledge Bases**|Zheni Zeng et.al.|[2411.14790](http://arxiv.org/abs/2411.14790)|null|
+|**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
+|**2024-11-21**|**Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective**|Shenglai Zeng et.al.|[2411.14572](http://arxiv.org/abs/2411.14572)|null|
+|**2024-11-19**|**StreetviewLLM: Extracting Geographic Information Using a Chain-of-Thought Multimodal Large Language Model**|Zongrong Li et.al.|[2411.14476](http://arxiv.org/abs/2411.14476)|null|
 |**2024-11-21**|**Efficient Aspect-Based Summarization of Climate Change Reports with Small Language Models**|Iacopo Ghinassi et.al.|[2411.14272](http://arxiv.org/abs/2411.14272)|**[link](https://github.com/ighina/llmclimate2024)**|
 |**2024-11-21**|**Towards Context-Rich Automated Biodiversity Assessments: Deriving AI-Powered Insights from Camera Trap Data**|Paul Fergus et.al.|[2411.14219](http://arxiv.org/abs/2411.14219)|null|
 |**2024-11-21**|**RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks**|Changyue Jiang et.al.|[2411.14110](http://arxiv.org/abs/2411.14110)|null|
@@ -6887,6 +6912,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Industrial Machines Health Prognosis using a Transformer-based Framework**|David J Poland et.al.|[2411.14443](http://arxiv.org/abs/2411.14443)|null|
 |**2024-11-04**|**Stochastic Optimal Control of an Industrial Power-to-Heat System with High-Temperature Heat Pump and Thermal Energy Storage**|Eric Pilling et.al.|[2411.02211](http://arxiv.org/abs/2411.02211)|null|
 |**2024-10-29**|**Optimizing Cost through Dynamic Stochastic Resetting**|Deepak Gupta et.al.|[2410.22255](http://arxiv.org/abs/2410.22255)|null|
 |**2024-10-28**|**Provisioning for Solar-Powered Base Stations Driven by Conditional LSTM Networks**|Yawen Guo et.al.|[2410.20755](http://arxiv.org/abs/2410.20755)|null|
