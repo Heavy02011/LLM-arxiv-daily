@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7246,7 +7246,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-10**|**Little to lose: the case for a robust European green hydrogen strategy**|Koen van Greevenbroek et.al.|[2412.07464](http://arxiv.org/abs/2412.07464)|null|
+|**2024-12-10**|**Little to lose: the case for a robust European green hydrogen strategy**|Koen van Greevenbroek et.al.|[2412.07464](http://arxiv.org/abs/2412.07464)|**[link](https://github.com/koen-vg/eu-hydrogen)**|
 |**2024-12-06**|**Cost optimized ab initio tensor network state methods: industrial perspectives**|Andor Menczer et.al.|[2412.04676](http://arxiv.org/abs/2412.04676)|null|
 |**2024-11-25**|**Modelling to Generate Continuous Alternatives: Enabling Real-Time Feasible Portfolio Generation in Convex Planning Models**|Michael Lau et.al.|[2411.16887](http://arxiv.org/abs/2411.16887)|null|
 |**2024-11-05**|**Industrial Machines Health Prognosis using a Transformer-based Framework**|David J Poland et.al.|[2411.14443](http://arxiv.org/abs/2411.14443)|null|
