@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563](http://arxiv.org/abs/2501.07563)|null|
+|**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
+|**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542](http://arxiv.org/abs/2501.07542)|null|
+|**2025-01-13**|**ML Mule: Mobile-Driven Context-Aware Collaborative Learning**|Haoxiang Yu et.al.|[2501.07536](http://arxiv.org/abs/2501.07536)|null|
+|**2025-01-13**|**Investigating Large Language Models in Inferring Personality Traits from User Conversations**|Jianfeng Zhu et.al.|[2501.07532](http://arxiv.org/abs/2501.07532)|null|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Parallel Key-Value Cache Fusion for Position Invariant RAG**|Philhoon Oh et.al.|[2501.07523](http://arxiv.org/abs/2501.07523)|null|
+|**2025-01-13**|**Exploring and Mitigating Adversarial Manipulation of Voting-Based Leaderboards**|Yangsibo Huang et.al.|[2501.07493](http://arxiv.org/abs/2501.07493)|null|
+|**2025-01-13**|**TiEBe: A Benchmark for Assessing the Current Knowledge of Large Language Models**|Thales Sales Almeida et.al.|[2501.07482](http://arxiv.org/abs/2501.07482)|null|
+|**2025-01-13**|**A Survey of Embodied AI in Healthcare: Techniques, Applications, and Opportunities**|Yihao Liu et.al.|[2501.07468](http://arxiv.org/abs/2501.07468)|null|
+|**2025-01-13**|**Understanding and Benchmarking Artificial Intelligence: OpenAI's o3 Is Not AGI**|Rolf Pfister et.al.|[2501.07458](http://arxiv.org/abs/2501.07458)|null|
+|**2025-01-13**|**Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection**|Xin Yin et.al.|[2501.07425](http://arxiv.org/abs/2501.07425)|null|
+|**2025-01-13**|**Initial Findings on Sensor based Open Vocabulary Activity Recognition via Text Embedding Inversion**|Lala Shakti Swarup Ray et.al.|[2501.07408](http://arxiv.org/abs/2501.07408)|null|
+|**2025-01-13**|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe et.al.|[2501.07396](http://arxiv.org/abs/2501.07396)|null|
+|**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
+|**2025-01-13**|**Extracting Participation in Collective Action from Social Media**|Arianna Pera et.al.|[2501.07368](http://arxiv.org/abs/2501.07368)|null|
+|**2025-01-13**|**Emergent effects of scaling on the functional hierarchies within large language models**|Paul C. Bogdan et.al.|[2501.07359](http://arxiv.org/abs/2501.07359)|null|
+|**2025-01-13**|**Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**|Zanis Ali Khan et.al.|[2501.07339](http://arxiv.org/abs/2501.07339)|null|
+|**2025-01-13**|**TempoGPT: Enhancing Temporal Reasoning via Quantizing Embedding**|Haochuan Zhang et.al.|[2501.07335](http://arxiv.org/abs/2501.07335)|null|
+|**2025-01-13**|**Foundation Models at Work: Fine-Tuning for Fairness in Algorithmic Hiring**|Buse Sibel Korkmaz et.al.|[2501.07324](http://arxiv.org/abs/2501.07324)|**[link](https://github.com/buseskorkmaz/fms-at-work)**|
 |**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186](http://arxiv.org/abs/2501.06186)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184](http://arxiv.org/abs/2501.06184)|null|
 |**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
@@ -7114,6 +7134,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572](http://arxiv.org/abs/2501.07572)|**[link](https://github.com/alibaba-nlp/webwalker)**|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Parallel Key-Value Cache Fusion for Position Invariant RAG**|Philhoon Oh et.al.|[2501.07523](http://arxiv.org/abs/2501.07523)|null|
+|**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
+|**2025-01-13**|**LLM-Net: Democratizing LLMs-as-a-Service through Blockchain-based Expert Networks**|Zan-Kai Chong et.al.|[2501.07288](http://arxiv.org/abs/2501.07288)|null|
+|**2025-01-13**|**Large Language Models: New Opportunities for Access to Science**|Jutta Schnabel et.al.|[2501.07250](http://arxiv.org/abs/2501.07250)|null|
+|**2025-01-13**|**ListConRanker: A Contrastive Text Reranker with Listwise Encoding**|Junlong Liu et.al.|[2501.07111](http://arxiv.org/abs/2501.07111)|null|
+|**2025-01-13**|**Research on the Online Update Method for Retrieval-Augmented Generation (RAG) Model with Incremental Learning**|Yuxin Fan et.al.|[2501.07063](http://arxiv.org/abs/2501.07063)|null|
+|**2025-01-13**|**A Proposed Large Language Model-Based Smart Search for Archive System**|Ha Dung Nguyen et.al.|[2501.07024](http://arxiv.org/abs/2501.07024)|null|
+|**2025-01-12**|**Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing**|Muhamamd Haris Khan et.al.|[2501.06919](http://arxiv.org/abs/2501.06919)|null|
+|**2025-01-12**|**MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**|Tianyu Fan et.al.|[2501.06713](http://arxiv.org/abs/2501.06713)|**[link](https://github.com/hkuds/minirag)**|
+|**2025-01-11**|**First Token Probability Guided RAG for Telecom Question Answering**|Tingwei Chen et.al.|[2501.06468](http://arxiv.org/abs/2501.06468)|null|
+|**2025-01-10**|**OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics**|Sandeep Pandey et.al.|[2501.06327](http://arxiv.org/abs/2501.06327)|null|
+|**2025-01-10**|**BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems**|Nikita Mehandru et.al.|[2501.06314](http://arxiv.org/abs/2501.06314)|null|
 |**2025-01-10**|**VideoRAG: Retrieval-Augmented Generation over Video Corpus**|Soyeong Jeong et.al.|[2501.05874](http://arxiv.org/abs/2501.05874)|null|
 |**2025-01-09**|**LLMQuoter: Enhancing RAG Capabilities Through Efficient Quote Extraction From Large Contexts**|Yuri Facanha Bezerra et.al.|[2501.05554](http://arxiv.org/abs/2501.05554)|**[link](https://github.com/yurifacanha/llmquoter)**|
 |**2025-01-07**|**Retrieval-Augmented Generation by Evidence Retroactivity in LLMs**|Liang Xiao et.al.|[2501.05475](http://arxiv.org/abs/2501.05475)|null|
@@ -7687,6 +7721,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-11**|**The Internet of Large Language Models: An Orchestration Framework for LLM Training and Knowledge Exchange Toward Artificial General Intelligence**|Wilson Wei et.al.|[2501.06471](http://arxiv.org/abs/2501.06471)|null|
 |**2025-01-05**|**PTEENet: Post-Trained Early-Exit Neural Networks Augmentation for Inference Cost Optimization**|Assaf Lahiany et.al.|[2501.02508](http://arxiv.org/abs/2501.02508)|null|
 |**2024-12-20**|**Traffic-Aware Cost-Optimized Fronthaul Planning for Ultra-Dense Networks**|Anas S. Mohammed et.al.|[2412.15478](http://arxiv.org/abs/2412.15478)|null|
 |**2024-12-18**|**Resource Constrained Pathfinding with Enhanced Bidirectional A* Search**|Saman Ahmadi et.al.|[2412.13888](http://arxiv.org/abs/2412.13888)|null|
