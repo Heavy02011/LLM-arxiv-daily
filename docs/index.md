@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -8596,7 +8596,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**Cost-optimal Management of a Residential Heating System With a Geothermal Energy Storage Under Uncertainty**|Pual Honore Takam et.al.|[2502.19619](http://arxiv.org/abs/2502.19619)|null|
-|**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|null|
+|**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|**[link](https://github.com/elpsylearning/TCO-DRL)**|
 |**2025-02-17**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|**[link](https://github.com/da-group-pku/magic-1-for-1)**|
 |**2025-02-07**|**A physical model approach to order lot sizing**|Tania Daiana Tobares et.al.|[2502.06856](http://arxiv.org/abs/2502.06856)|null|
 |**2025-02-10**|**Toolbox for Developing Physics Informed Neural Networks for Power Systems Components**|Ioannis Karampinis et.al.|[2502.06412](http://arxiv.org/abs/2502.06412)|null|

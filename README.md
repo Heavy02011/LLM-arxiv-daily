@@ -1,4 +1,4 @@
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -294,7 +294,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -5363,7 +5363,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -7761,7 +7761,7 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## RAG
 
@@ -8604,14 +8604,14 @@
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-23**|**Xinyu: An Efficient LLM-based System for Commentary Generation**|Yiquan Wu et.al.|[2408.11609](http://arxiv.org/abs/2408.11609)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## Construction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-26**|**Cost-optimal Management of a Residential Heating System With a Geothermal Energy Storage Under Uncertainty**|Pual Honore Takam et.al.|[2502.19619](http://arxiv.org/abs/2502.19619)|null|
-|**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|null|
+|**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|**[link](https://github.com/elpsylearning/TCO-DRL)**|
 |**2025-02-17**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|**[link](https://github.com/da-group-pku/magic-1-for-1)**|
 |**2025-02-07**|**A physical model approach to order lot sizing**|Tania Daiana Tobares et.al.|[2502.06856](http://arxiv.org/abs/2502.06856)|null|
 |**2025-02-10**|**Toolbox for Developing Physics Informed Neural Networks for Power Systems Components**|Ioannis Karampinis et.al.|[2502.06412](http://arxiv.org/abs/2502.06412)|null|
@@ -8662,5 +8662,5 @@
 |**2024-09-16**|**H $_2$ and CO$_2$ Network Strategies for the European Energy System**|Fabian Hofmann et.al.|[2402.19042](http://arxiv.org/abs/2402.19042)|null|
 |**2024-07-31**|**Impact of data for forecasting on performance of model predictive control in buildings with smart energy storage**|Max Langtry et.al.|[2402.12539](http://arxiv.org/abs/2402.12539)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
