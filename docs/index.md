@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7790,7 +7790,7 @@ layout: default
 |**2025-02-27**|**CS-PaperSum: A Large-Scale Dataset of AI-Generated Summaries for Scientific Papers**|Javin Liu et.al.|[2502.20582](http://arxiv.org/abs/2502.20582)|null|
 |**2025-02-27**|**NANOGPT: A Query-Driven Large Language Model Retrieval-Augmented Generation System for Nanotechnology Research**|Achuth Chandrasekhar et.al.|[2502.20541](http://arxiv.org/abs/2502.20541)|null|
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
-|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|null|
+|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-02-27**|**From Retrieval to Generation: Comparing Different Approaches**|Abdelrahman Abdallah et.al.|[2502.20245](http://arxiv.org/abs/2502.20245)|null|
 |**2025-02-27**|**ChineseEcomQA: A Scalable E-commerce Concept Evaluation Benchmark for Large Language Models**|Haibin Chen et.al.|[2502.20196](http://arxiv.org/abs/2502.20196)|null|
 |**2025-02-27**|**Bisecting K-Means in RAG for Enhancing Question-Answering Tasks Performance in Telecommunications**|Pedro Sousa et.al.|[2502.20188](http://arxiv.org/abs/2502.20188)|null|
