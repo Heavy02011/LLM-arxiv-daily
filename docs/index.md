@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7904,7 +7904,7 @@ layout: default
 |**2025-03-11**|**LLM-based Corroborating and Refuting Evidence Retrieval for Scientific Claim Verification**|Siyuan Wang et.al.|[2503.07937](http://arxiv.org/abs/2503.07937)|null|
 |**2025-03-09**|**Retrieval Augmented Generation with Multi-Modal LLM Framework for Wireless Environments**|Muhammad Ahmed Mohsin et.al.|[2503.07670](http://arxiv.org/abs/2503.07670)|null|
 |**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470](http://arxiv.org/abs/2503.07470)|null|
-|**2025-03-10**|**Generative AI in Transportation Planning: A Survey**|Longchao Da et.al.|[2503.07158](http://arxiv.org/abs/2503.07158)|null|
+|**2025-03-11**|**Generative AI in Transportation Planning: A Survey**|Longchao Da et.al.|[2503.07158](http://arxiv.org/abs/2503.07158)|null|
 |**2025-03-10**|**CtrlRAG: Black-box Adversarial Attacks Based on Masked Language Models in Retrieval-Augmented Language Generation**|Runqi Sui et.al.|[2503.06950](http://arxiv.org/abs/2503.06950)|null|
 |**2025-03-09**|**Delusions of Large Language Models**|Hongshen Xu et.al.|[2503.06709](http://arxiv.org/abs/2503.06709)|null|
 |**2025-03-09**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567](http://arxiv.org/abs/2503.06567)|null|
@@ -8802,7 +8802,7 @@ layout: default
 |**2025-03-11**|**Integrated Energy Management for Operational Cost Optimization in Community Microgrids**|Moslem Uddin et.al.|[2503.08009](http://arxiv.org/abs/2503.08009)|null|
 |**2025-03-08**|**HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2503.07662](http://arxiv.org/abs/2503.07662)|null|
 |**2025-03-08**|**Generation of Optimized Solidity Code for Machine Learning Models using LLMs**|Nikumbh Sarthak Sham et.al.|[2503.06203](http://arxiv.org/abs/2503.06203)|null|
-|**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|**[link](https://github.com/dos-group/benchspark)**|
+|**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|**[link](https://github.com/dos-group/flora)**|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
 |**2025-03-07**|**ECCOS: Efficient Capability and Cost Coordinated Scheduling for Multi-LLM Serving**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|**[link](https://github.com/agiresearch/eccos)**|
 |**2025-03-03**|**Cost-optimal Management of a Residential Heating System With a Geothermal Energy Storage Under Uncertainty**|Paul Honore Takam et.al.|[2502.19619](http://arxiv.org/abs/2502.19619)|null|
