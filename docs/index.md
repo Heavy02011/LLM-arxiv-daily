@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
+|**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354](http://arxiv.org/abs/2503.17354)|null|
+|**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353](http://arxiv.org/abs/2503.17353)|null|
+|**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
+|**2025-03-21**|**Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models**|Jianing Qi et.al.|[2503.17349](http://arxiv.org/abs/2503.17349)|null|
+|**2025-03-21**|**Capturing Individual Human Preferences with Reward Features**|André Barreto et.al.|[2503.17338](http://arxiv.org/abs/2503.17338)|null|
+|**2025-03-21**|**Efficient Intent-Based Filtering for Multi-Party Conversations Using Knowledge Distillation from LLMs**|Reem Gody et.al.|[2503.17336](http://arxiv.org/abs/2503.17336)|null|
+|**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
+|**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287](http://arxiv.org/abs/2503.17287)|**[link](https://github.com/nick7nlp/FastCuRL)**|
+|**2025-03-21**|**CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement**|Gaifan Zhang et.al.|[2503.17279](http://arxiv.org/abs/2503.17279)|null|
+|**2025-03-21**|**Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need**|Adam Karvonen et.al.|[2503.17272](http://arxiv.org/abs/2503.17272)|null|
+|**2025-03-21**|**SafeMERGE: Preserving Safety Alignment in Fine-Tuned Large Language Models via Selective Layer-Wise Model Merging**|Aladin Djuhera et.al.|[2503.17239](http://arxiv.org/abs/2503.17239)|null|
+|**2025-03-21**|**Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology**|Devavrat Tomar et.al.|[2503.17238](http://arxiv.org/abs/2503.17238)|null|
+|**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229](http://arxiv.org/abs/2503.17229)|null|
+|**2025-03-21**|**Automating Adjudication of Cardiovascular Events Using Large Language Models**|Sonish Sivarajkumar et.al.|[2503.17222](http://arxiv.org/abs/2503.17222)|null|
+|**2025-03-21**|**A Language Anchor-Guided Method for Robust Noisy Domain Generalization**|Zilin Dai et.al.|[2503.17211](http://arxiv.org/abs/2503.17211)|null|
+|**2025-03-21**|**TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning**|Sheng Wang et.al.|[2503.17195](http://arxiv.org/abs/2503.17195)|null|
+|**2025-03-21**|**LLMs Love Python: A Study of LLMs' Bias for Programming Languages and Libraries**|Lukas Twist et.al.|[2503.17181](http://arxiv.org/abs/2503.17181)|null|
 |**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/abs/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|
 |**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|null|
@@ -8035,19 +8055,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|null|
-|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|null|
-|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|null|
-|**2025-03-20**|**Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering**|DongGeon Lee et.al.|[2503.15879](http://arxiv.org/abs/2503.15879)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
+|**2025-03-21**|**RustEvo^2: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation**|Linxi Liang et.al.|[2503.16922](http://arxiv.org/abs/2503.16922)|null|
+|**2025-03-20**|**Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models**|Zahra Khalila et.al.|[2503.16581](http://arxiv.org/abs/2503.16581)|null|
+|**2025-03-20**|**FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article**|Ibrahim Al Azher et.al.|[2503.16561](http://arxiv.org/abs/2503.16561)|null|
+|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|**[link](https://github.com/razvanip13/towards_lighter_and_robust_evaluation)**|
+|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|**[link](https://github.com/mindverse/rag-tuned-llm)**|
+|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|**[link](https://github.com/byronbbl/ck-plug)**|
+|**2025-03-21**|**Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering**|DongGeon Lee et.al.|[2503.15879](http://arxiv.org/abs/2503.15879)|**[link](https://github.com/teamnlp/typed-rag)**|
 |**2025-03-20**|**DroidTTP: Mapping Android Applications with TTP for Cyber Threat Intelligence**|Dincy R Arikkat et.al.|[2503.15866](http://arxiv.org/abs/2503.15866)|null|
 |**2025-03-19**|**Enhancing Pancreatic Cancer Staging with Large Language Models: The Role of Retrieval-Augmented Generation**|Hisashi Johno et.al.|[2503.15664](http://arxiv.org/abs/2503.15664)|null|
-|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|null|
+|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|**[link](https://github.com/salesforceairesearch/contextualjudgebench)**|
 |**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**When Pigs Get Sick: Multi-Agent AI for Swine Disease Detection**|Tittaya Mairittha et.al.|[2503.15204](http://arxiv.org/abs/2503.15204)|null|
-|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|null|
+|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|**[link](https://github.com/seohyunwoo-0407/gar)**|
 |**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802](http://arxiv.org/abs/2503.14802)|null|
-|**2025-03-18**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
+|**2025-03-21**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
 |**2025-03-18**|**Good/Evil Reputation Judgment of Celebrities by LLMs via Retrieval Augmented Generation**|Rikuto Tsuchida et.al.|[2503.14382](http://arxiv.org/abs/2503.14382)|null|
 |**2025-03-18**|**MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration**|Yisen Xu et.al.|[2503.14340](http://arxiv.org/abs/2503.14340)|null|
 |**2025-03-20**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|**[link](https://github.com/oneal2000/judge)**|
