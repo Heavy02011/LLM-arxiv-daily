@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|null|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|null|
+|**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766](http://arxiv.org/abs/2503.21766)|null|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
+|**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
+|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
+|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735](http://arxiv.org/abs/2503.21735)|null|
+|**2025-03-27**|**Effective Skill Unlearning through Intervention and Abstention**|Yongce Li et.al.|[2503.21730](http://arxiv.org/abs/2503.21730)|null|
+|**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720](http://arxiv.org/abs/2503.21720)|null|
+|**2025-03-27**|**Outlier dimensions favor frequent tokens in language model**|Iuri Macocco et.al.|[2503.21718](http://arxiv.org/abs/2503.21718)|null|
+|**2025-03-27**|**As easy as PIE: understanding when pruning causes language models to disagree**|Pietro Tropeano et.al.|[2503.21714](http://arxiv.org/abs/2503.21714)|null|
+|**2025-03-27**|**Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs**|Boyang Yang et.al.|[2503.21710](http://arxiv.org/abs/2503.21710)|null|
+|**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683](http://arxiv.org/abs/2503.21683)|null|
+|**2025-03-27**|**JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community**|Yunze Xiao et.al.|[2503.21679](http://arxiv.org/abs/2503.21679)|null|
+|**2025-03-27**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|
+|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|null|
+|**2025-03-27**|**Model Assembly Learning with Heterogeneous Layer Weight Merging**|Yi-Kai Zhang et.al.|[2503.21657](http://arxiv.org/abs/2503.21657)|null|
+|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
+|**2025-03-27**|**Leveraging Language Models for Analyzing Longitudinal Experiential Data in Education**|Ahatsham Hayat et.al.|[2503.21617](http://arxiv.org/abs/2503.21617)|null|
+|**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613](http://arxiv.org/abs/2503.21613)|null|
 |**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786](http://arxiv.org/abs/2503.20786)|null|
 |**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785](http://arxiv.org/abs/2503.20785)|null|
 |**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
@@ -8115,6 +8135,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729](http://arxiv.org/abs/2503.21729)|null|
+|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322](http://arxiv.org/abs/2503.21322)|null|
+|**2025-03-27**|**Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack**|Cheng Wang et.al.|[2503.21315](http://arxiv.org/abs/2503.21315)|null|
+|**2025-03-27**|**Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?**|Ashish Sardana et.al.|[2503.21157](http://arxiv.org/abs/2503.21157)|null|
+|**2025-03-26**|**DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care**|Yutong Song et.al.|[2503.20950](http://arxiv.org/abs/2503.20950)|null|
+|**2025-03-26**|**Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring**|Fraol Batole et.al.|[2503.20934](http://arxiv.org/abs/2503.20934)|null|
 |**2025-03-26**|**MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search**|Yunhai Hu et.al.|[2503.20757](http://arxiv.org/abs/2503.20757)|null|
 |**2025-03-26**|**What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond**|Wenchao Gu et.al.|[2503.20589](http://arxiv.org/abs/2503.20589)|null|
 |**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|null|
@@ -8126,9 +8152,9 @@ layout: default
 |**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923](http://arxiv.org/abs/2503.18923)|null|
 |**2025-03-24**|**ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation**|Jiahui Xiang et.al.|[2503.18460](http://arxiv.org/abs/2503.18460)|null|
 |**2025-03-24**|**Fact-checking AI-generated news reports: Can LLMs catch their own lies?**|Jiayi Yao et.al.|[2503.18293](http://arxiv.org/abs/2503.18293)|null|
-|**2025-03-23**|**GINGER: Grounded Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2503.18174](http://arxiv.org/abs/2503.18174)|null|
+|**2025-03-23**|**GINGER: Grounded Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2503.18174](http://arxiv.org/abs/2503.18174)|**[link](https://github.com/iai-group/ginger-response-generation)**|
 |**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
-|**2025-03-23**|**Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA**|Justice Ou et.al.|[2503.17933](http://arxiv.org/abs/2503.17933)|null|
+|**2025-03-23**|**Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA**|Justice Ou et.al.|[2503.17933](http://arxiv.org/abs/2503.17933)|**[link](https://github.com/jou2024/EXPRAG)**|
 |**2025-03-23**|**MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**|Hsin-Ling Hsu et.al.|[2503.17900](http://arxiv.org/abs/2503.17900)|null|
 |**2025-03-21**|**Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent**|Humza Nusrat et.al.|[2503.17553](http://arxiv.org/abs/2503.17553)|null|
 |**2025-03-21**|**An LLM-Powered Clinical Calculator Chatbot Backed by Verifiable Clinical Calculators and their Metadata**|Niranjan Kumar et.al.|[2503.17550](http://arxiv.org/abs/2503.17550)|null|
@@ -9092,8 +9118,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Cloud Resource Allocation with Convex Optimization**|Shayan Boghani et.al.|[2503.21096](http://arxiv.org/abs/2503.21096)|null|
 |**2025-03-26**|**Harmonia: A Multi-Agent Reinforcement Learning Approach to Data Placement and Migration in Hybrid Storage Systems**|Rakesh Nadig et.al.|[2503.20507](http://arxiv.org/abs/2503.20507)|null|
-|**2025-03-25**|**Adaptive Orchestration for Large-Scale Inference on Heterogeneous Accelerator Systems Balancing Cost, Performance, and Resilience**|Yahav Biran et.al.|[2503.20074](http://arxiv.org/abs/2503.20074)|null|
+|**2025-03-27**|**Adaptive Orchestration for Large-Scale Inference on Heterogeneous Accelerator Systems Balancing Cost, Performance, and Resilience**|Yahav Biran et.al.|[2503.20074](http://arxiv.org/abs/2503.20074)|null|
 |**2025-03-24**|**AttenMfg: An Attention Network Based Optimization Framework for Sensor-Driven Operations & Maintenance in Manufacturing Systems**|Iman Kazemian et.al.|[2503.18780](http://arxiv.org/abs/2503.18780)|null|
 |**2025-03-21**|**Electric Vehicle Integration using Large-Scale Combined Transmission and Distribution Grid Models**|Diana Wallison et.al.|[2503.17545](http://arxiv.org/abs/2503.17545)|null|
 |**2025-03-14**|**Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization**|Abrar Hossain et.al.|[2503.11011](http://arxiv.org/abs/2503.11011)|null|
