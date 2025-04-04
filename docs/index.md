@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -8200,10 +8200,10 @@ layout: default
 |**2025-04-02**|**LARGE: Legal Retrieval Augmented Generation Evaluation Tool**|Minhu Park et.al.|[2504.01840](http://arxiv.org/abs/2504.01840)|null|
 |**2025-04-02**|**Reasoning LLMs for User-Aware Multimodal Conversational Agents**|Hamed Rahimi et.al.|[2504.01700](http://arxiv.org/abs/2504.01700)|null|
 |**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509](http://arxiv.org/abs/2504.01509)|null|
-|**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|
+|**2025-04-03**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309](http://arxiv.org/abs/2504.01309)|null|
-|**2025-04-02**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
-|**2025-04-01**|**Medical large language models are easily distracted**|Krithik Vishwanath et.al.|[2504.01201](http://arxiv.org/abs/2504.01201)|null|
+|**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
+|**2025-04-01**|**Medical large language models are easily distracted**|Krithik Vishwanath et.al.|[2504.01201](http://arxiv.org/abs/2504.01201)|**[link](https://github.com/nyuolab/MedDistractQA)**|
 |**2025-04-01**|**Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB**|Anas Dorbani et.al.|[2504.01157](http://arxiv.org/abs/2504.01157)|null|
 |**2025-04-01**|**Self-Routing RAG: Binding Selective Retrieval with Knowledge Verbalization**|Di Wu et.al.|[2504.01018](http://arxiv.org/abs/2504.01018)|null|
 |**2025-04-01**|**WikiVideo: Article Generation from Multiple Videos**|Alexander Martin et.al.|[2504.00939](http://arxiv.org/abs/2504.00939)|null|
@@ -9233,7 +9233,7 @@ layout: default
 |**2025-03-08**|**Generation of Optimized Solidity Code for Machine Learning Models using LLMs**|Nikumbh Sarthak Sham et.al.|[2503.06203](http://arxiv.org/abs/2503.06203)|null|
 |**2025-02-28**|**Flora: Efficient Cloud Resource Selection for Big Data Processing via Job Classification**|Jonathan Will et.al.|[2502.21046](http://arxiv.org/abs/2502.21046)|**[link](https://github.com/dos-group/flora)**|
 |**2025-02-28**|**SkyStore: Cost-Optimized Object Storage Across Regions and Clouds**|Shu Liu et.al.|[2502.20818](http://arxiv.org/abs/2502.20818)|null|
-|**2025-03-22**|**Smart Routing: Cost-Effective Multi-LLM Serving in AIOS**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|**[link](https://github.com/agiresearch/aios)**|
+|**2025-04-02**|**Smart Routing: Cost-Effective Multi-LLM Serving for Multi-Core AIOS**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|**[link](https://github.com/agiresearch/aios)**|
 |**2025-03-03**|**Cost-optimal Management of a Residential Heating System With a Geothermal Energy Storage Under Uncertainty**|Paul Honore Takam et.al.|[2502.19619](http://arxiv.org/abs/2502.19619)|null|
 |**2025-02-22**|**A Trust-Aware and Cost-Optimized Blockchain Oracle Selection Model with Deep Reinforcement Learning**|Hengyang Zhang et.al.|[2502.16133](http://arxiv.org/abs/2502.16133)|**[link](https://github.com/elpsylearning/TCO-DRL)**|
 |**2025-02-17**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|**[link](https://github.com/da-group-pku/magic-1-for-1)**|
