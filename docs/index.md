@@ -8219,11 +8219,11 @@ layout: default
 |**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458](http://arxiv.org/abs/2504.02458)|null|
 |**2025-04-03**|**Adapting Large Language Models for Multi-Domain Retrieval-Augmented-Generation**|Alexandre Misrahi et.al.|[2504.02411](http://arxiv.org/abs/2504.02411)|null|
 |**2025-04-02**|**One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image**|Ezzeldin Shereen et.al.|[2504.02132](http://arxiv.org/abs/2504.02132)|null|
-|**2025-04-02**|**CoRAG: Collaborative Retrieval-Augmented Generation**|Aashiq Muhamed et.al.|[2504.01883](http://arxiv.org/abs/2504.01883)|null|
+|**2025-04-02**|**CoRAG: Collaborative Retrieval-Augmented Generation**|Aashiq Muhamed et.al.|[2504.01883](http://arxiv.org/abs/2504.01883)|**[link](https://github.com/aashiqmuhamed/CoRAG)**|
 |**2025-04-02**|**From Code Generation to Software Testing: AI Copilot with Context-Based RAG**|Yuchen Wang et.al.|[2504.01866](http://arxiv.org/abs/2504.01866)|null|
 |**2025-04-02**|**LARGE: Legal Retrieval Augmented Generation Evaluation Tool**|Minhu Park et.al.|[2504.01840](http://arxiv.org/abs/2504.01840)|**[link](https://github.com/hoorangyee/lrage)**|
 |**2025-04-02**|**Reasoning LLMs for User-Aware Multimodal Conversational Agents**|Hamed Rahimi et.al.|[2504.01700](http://arxiv.org/abs/2504.01700)|null|
-|**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509](http://arxiv.org/abs/2504.01509)|null|
+|**2025-04-02**|**PROPHET: An Inferable Future Forecasting Benchmark with Causal Intervened Likelihood Estimation**|Zhengwei Tao et.al.|[2504.01509](http://arxiv.org/abs/2504.01509)|**[link](https://github.com/TZWwww/PROPHET)**|
 |**2025-04-03**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|
 |**2025-04-02**|**Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**|Lingxiao Guan et.al.|[2504.01309](http://arxiv.org/abs/2504.01309)|null|
 |**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
