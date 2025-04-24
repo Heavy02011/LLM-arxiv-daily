@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -8479,7 +8479,7 @@ layout: default
 |**2025-04-22**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800](http://arxiv.org/abs/2504.15800)|null|
 |**2025-04-22**|**The Viability of Crowdsourcing for RAG Evaluation**|Lukas Gienapp et.al.|[2504.15689](http://arxiv.org/abs/2504.15689)|null|
 |**2025-04-22**|**CiteFix: Enhancing RAG Accuracy Through Post-Processing Citation Correction**|Harsh Maheshwari et.al.|[2504.15629](http://arxiv.org/abs/2504.15629)|null|
-|**2025-04-22**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
+|**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
 |**2025-04-21**|**TVR: Automotive System Requirement Traceability Validation and Recovery Through Retrieval-Augmented Generation**|Feifei Niu et.al.|[2504.15427](http://arxiv.org/abs/2504.15427)|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
 |**2025-04-21**|**The Great Nugget Recall: Automating Fact Extraction and RAG Evaluation with Large Language Models**|Ronak Pradeep et.al.|[2504.15068](http://arxiv.org/abs/2504.15068)|null|
