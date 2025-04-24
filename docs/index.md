@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
+|**2025-04-23**|**IberBench: LLM Evaluation on Iberian Languages**|José Ángel González et.al.|[2504.16921](http://arxiv.org/abs/2504.16921)|null|
+|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/abs/2504.16913)|null|
+|**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
+|**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
+|**2025-04-23**|**Common Functional Decompositions Can Mis-attribute Differences in Outcomes Between Populations**|Manuel Quintero et.al.|[2504.16864](http://arxiv.org/abs/2504.16864)|null|
+|**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
+|**2025-04-23**|**Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification**|Alexander Shvets et.al.|[2504.16856](http://arxiv.org/abs/2504.16856)|null|
+|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
+|**2025-04-23**|**Improving Significant Wave Height Prediction Using Chronos Models**|Yilin Zhai et.al.|[2504.16834](http://arxiv.org/abs/2504.16834)|null|
+|**2025-04-23**|**LRASGen: LLM-based RESTful API Specification Generation**|Sida Deng et.al.|[2504.16833](http://arxiv.org/abs/2504.16833)|null|
+|**2025-04-23**|**GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning**|Luu Quy Tung et.al.|[2504.16832](http://arxiv.org/abs/2504.16832)|null|
+|**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
+|**2025-04-23**|**MOOSComp: Improving Lightweight Long-Context Compressor via Mitigating Over-Smoothing and Incorporating Outlier Scores**|Fengwei Zhou et.al.|[2504.16786](http://arxiv.org/abs/2504.16786)|null|
+|**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782](http://arxiv.org/abs/2504.16782)|null|
+|**2025-04-23**|**How Effective are Generative Large Language Models in Performing Requirements Classification?**|Waad Alhoshan et.al.|[2504.16768](http://arxiv.org/abs/2504.16768)|null|
+|**2025-04-23**|**Lightweight Latent Verifiers for Efficient Meta-Generation Strategies**|Bartosz Piotrowski et.al.|[2504.16760](http://arxiv.org/abs/2504.16760)|null|
+|**2025-04-23**|**HEMA : A Hippocampus-Inspired Extended Memory Architecture for Long-Context AI Conversations**|Kwangseob Ahn et.al.|[2504.16754](http://arxiv.org/abs/2504.16754)|null|
 |**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
@@ -8475,8 +8495,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
+|**2025-04-23**|**LLM-assisted Graph-RAG Information Extraction from IFC Data**|Sima Iranmanesh et.al.|[2504.16813](http://arxiv.org/abs/2504.16813)|null|
+|**2025-04-23**|**Credible plan-driven RAG method for Multi-hop Question Answering**|Ningning Zhang et.al.|[2504.16787](http://arxiv.org/abs/2504.16787)|null|
+|**2025-04-23**|**DTVM: Revolutionizing Smart Contract Execution with Determinism and Compatibility**|Wei Zhou et.al.|[2504.16552](http://arxiv.org/abs/2504.16552)|null|
 |**2025-04-22**|**Synergizing RAG and Reasoning: A Systematic Review**|Yunfan Gao et.al.|[2504.15909](http://arxiv.org/abs/2504.15909)|null|
-|**2025-04-22**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800](http://arxiv.org/abs/2504.15800)|null|
+|**2025-04-23**|**FinDER: Financial Dataset for Question Answering and Evaluating Retrieval-Augmented Generation**|Chanyeol Choi et.al.|[2504.15800](http://arxiv.org/abs/2504.15800)|null|
 |**2025-04-22**|**The Viability of Crowdsourcing for RAG Evaluation**|Lukas Gienapp et.al.|[2504.15689](http://arxiv.org/abs/2504.15689)|null|
 |**2025-04-22**|**CiteFix: Enhancing RAG Accuracy Through Post-Processing Citation Correction**|Harsh Maheshwari et.al.|[2504.15629](http://arxiv.org/abs/2504.15629)|null|
 |**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
