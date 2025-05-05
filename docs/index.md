@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -8618,7 +8618,7 @@ layout: default
 |**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506](http://arxiv.org/abs/2505.00506)|null|
 |**2025-05-01**|**Distributed Retrieval-Augmented Generation**|Chenhao Xu et.al.|[2505.00443](http://arxiv.org/abs/2505.00443)|null|
 |**2025-05-01**|**EnronQA: Towards Personalized RAG over Private Documents**|Michael J. Ryan et.al.|[2505.00263](http://arxiv.org/abs/2505.00263)|null|
-|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
+|**2025-05-02**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
 |**2025-04-30**|**Optimization of embeddings storage for RAG systems using quantization and dimensionality reduction techniques**|Naamán Huerga-Pérez et.al.|[2505.00105](http://arxiv.org/abs/2505.00105)|null|
 |**2025-04-29**|**Graph RAG for Legal Norms: A Hierarchical and Temporal Approach**|Hudson de Martim et.al.|[2505.00039](http://arxiv.org/abs/2505.00039)|null|
 |**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
