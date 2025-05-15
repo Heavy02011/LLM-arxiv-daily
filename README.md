@@ -1,4 +1,4 @@
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -294,7 +294,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -302,7 +302,7 @@
 |---|---|---|---|---|
 |**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|null|
 |**2025-05-13**|**HealthBench: Evaluating Large Language Models Towards Improved Human Health**|Rahul K. Arora et.al.|[2505.08775](http://arxiv.org/abs/2505.08775)|**[link](https://github.com/openai/simple-evals)**|
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
+|**2025-05-14**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
 |**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
 |**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
 |**2025-05-13**|**DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**|Xiaoyang Chen et.al.|[2505.08744](http://arxiv.org/abs/2505.08744)|**[link](https://github.com/deepmathllm/deepmath)**|
@@ -316,7 +316,7 @@
 |**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
-|**2025-05-13**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
+|**2025-05-14**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
 |**2025-05-13**|**VizCV: AI-assisted visualization of researchers' publications tracks**|Vladimír Lazárik et.al.|[2505.08691](http://arxiv.org/abs/2505.08691)|null|
 |**2025-05-13**|**Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation**|Sheng Liang et.al.|[2505.08690](http://arxiv.org/abs/2505.08690)|null|
 |**2025-05-13**|**A Social Robot with Inner Speech for Dietary Guidance**|Valerio Belcamino et.al.|[2505.08664](http://arxiv.org/abs/2505.08664)|null|
@@ -6384,7 +6384,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -8782,7 +8782,7 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## RAG
 
@@ -10044,7 +10044,7 @@
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-23**|**Xinyu: An Efficient LLM-based System for Commentary Generation**|Yiquan Wu et.al.|[2408.11609](http://arxiv.org/abs/2408.11609)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Construction
 
@@ -10126,5 +10126,5 @@
 |**2024-09-16**|**H $_2$ and CO$_2$ Network Strategies for the European Energy System**|Fabian Hofmann et.al.|[2402.19042](http://arxiv.org/abs/2402.19042)|null|
 |**2024-07-31**|**Impact of data for forecasting on performance of model predictive control in buildings with smart energy storage**|Max Langtry et.al.|[2402.12539](http://arxiv.org/abs/2402.12539)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
