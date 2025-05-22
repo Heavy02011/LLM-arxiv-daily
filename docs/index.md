@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811](http://arxiv.org/abs/2505.15811)|null|
+|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering**|Hwan Chang et.al.|[2505.15805](http://arxiv.org/abs/2505.15805)|null|
+|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
+|**2025-05-21**|**VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models**|Yuchen Yan et.al.|[2505.15801](http://arxiv.org/abs/2505.15801)|null|
+|**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
+|**2025-05-21**|**Reverse Engineering Human Preferences with Reinforcement Learning**|Lisa Alazraki et.al.|[2505.15795](http://arxiv.org/abs/2505.15795)|null|
+|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
+|**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
+|**2025-05-21**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776](http://arxiv.org/abs/2505.15776)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
+|**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
+|**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755](http://arxiv.org/abs/2505.15755)|null|
+|**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
+|**2025-05-21**|**Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications**|Dikshit Chauhan et.al.|[2505.15741](http://arxiv.org/abs/2505.15741)|null|
 |**2025-05-20**|**Language Models use Lookbacks to Track Beliefs**|Nikhil Prakash et.al.|[2505.14685](http://arxiv.org/abs/2505.14685)|null|
 |**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
 |**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
@@ -8875,6 +8895,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
+|**2025-05-21**|**HDLxGraph: Bridging Large Language Models and HDL Repositories via HDL Graph Databases**|Pingqing Zheng et.al.|[2505.15701](http://arxiv.org/abs/2505.15701)|**[link](https://github.com/nick-zheng-q/hdlxgraph)**|
+|**2025-05-21**|**Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions**|David Thulke et.al.|[2505.15633](http://arxiv.org/abs/2505.15633)|null|
+|**2025-05-21**|**Do RAG Systems Suffer From Positional Bias?**|Florin Cuconasu et.al.|[2505.15561](http://arxiv.org/abs/2505.15561)|null|
+|**2025-05-21**|**Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization**|Yutao Zhu et.al.|[2505.15444](http://arxiv.org/abs/2505.15444)|null|
+|**2025-05-21**|**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**|Yuhao Wang et.al.|[2505.15420](http://arxiv.org/abs/2505.15420)|null|
+|**2025-05-21**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
+|**2025-05-21**|**Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs**|Jie Ma et.al.|[2505.15210](http://arxiv.org/abs/2505.15210)|**[link](https://github.com/reml-group/deliberation-on-priors)**|
+|**2025-05-21**|**RAG or Fine-tuning? A Comparative Study on LCMs-based Code Completion in Industry**|Chaozheng Wang et.al.|[2505.15179](http://arxiv.org/abs/2505.15179)|null|
 |**2025-05-20**|**BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration**|Hongrong Yin et.al.|[2505.14528](http://arxiv.org/abs/2505.14528)|null|
 |**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462](http://arxiv.org/abs/2505.14462)|**[link](https://github.com/yfyuan01/ravenea)**|
 |**2025-05-20**|**Causal Cartographer: From Mapping to Reasoning Over Counterfactual Worlds**|Gaël Gendron et.al.|[2505.14396](http://arxiv.org/abs/2505.14396)|**[link](https://github.com/ggendro/causal-cartographer)**|
