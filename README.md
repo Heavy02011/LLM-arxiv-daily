@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|null|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|null|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|null|
+|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015](http://arxiv.org/abs/2505.17015)|null|
+|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012](http://arxiv.org/abs/2505.17012)|**[link](https://github.com/haoningwu3639/SpatialScore)**|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
+|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998](http://arxiv.org/abs/2505.16998)|null|
+|**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995](http://arxiv.org/abs/2505.16995)|null|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/abs/2505.16990)|null|
+|**2025-05-22**|**T1: A Tool-Oriented Conversational Dataset for Multi-Turn Agentic Planning**|Amartya Chakraborty et.al.|[2505.16986](http://arxiv.org/abs/2505.16986)|null|
+|**2025-05-22**|**UFT: Unifying Supervised and Reinforcement Fine-Tuning**|Mingyang Liu et.al.|[2505.16984](http://arxiv.org/abs/2505.16984)|null|
+|**2025-05-22**|**LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**|Junlong Tong et.al.|[2505.16983](http://arxiv.org/abs/2505.16983)|null|
+|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982](http://arxiv.org/abs/2505.16982)|null|
+|**2025-05-22**|**HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation**|Weizhi Tang et.al.|[2505.16978](http://arxiv.org/abs/2505.16978)|null|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|null|
+|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968](http://arxiv.org/abs/2505.16968)|null|
+|**2025-05-22**|**Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**|Junjie Xiong et.al.|[2505.16957](http://arxiv.org/abs/2505.16957)|null|
+|**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956](http://arxiv.org/abs/2505.16956)|null|
+|**2025-05-22**|**A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization**|Shengyu Feng et.al.|[2505.16952](http://arxiv.org/abs/2505.16952)|null|
 |**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
 |**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811](http://arxiv.org/abs/2505.15811)|null|
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
@@ -8908,6 +8928,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
+|**2025-05-22**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834](http://arxiv.org/abs/2505.16834)|null|
+|**2025-05-22**|**Beyond LLMs: An Exploration of Small Open-source Language Models in Logging Statement Generation**|Renyi Zhong et.al.|[2505.16590](http://arxiv.org/abs/2505.16590)|null|
+|**2025-05-22**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518](http://arxiv.org/abs/2505.16518)|null|
+|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470](http://arxiv.org/abs/2505.16470)|null|
+|**2025-05-22**|**Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation**|Ruizhe Li et.al.|[2505.16415](http://arxiv.org/abs/2505.16415)|null|
+|**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367](http://arxiv.org/abs/2505.16367)|null|
+|**2025-05-22**|**Ask, Retrieve, Summarize: A Modular Pipeline for Scientific Literature Summarization**|Pierre Achkar et.al.|[2505.16349](http://arxiv.org/abs/2505.16349)|null|
+|**2025-05-22**|**Rethinking Code Review Workflows with LLM Assistance: An Empirical Study**|Fannar Steinn Aðalsteinsson et.al.|[2505.16339](http://arxiv.org/abs/2505.16339)|null|
+|**2025-05-22**|**Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**|Derong Xu et.al.|[2505.16237](http://arxiv.org/abs/2505.16237)|null|
+|**2025-05-22**|**MuseRAG: Idea Originality Scoring At Scale**|Ali Sarosh Bangash et.al.|[2505.16232](http://arxiv.org/abs/2505.16232)|null|
+|**2025-05-22**|**HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine Retrieval and Augmented Generation**|Jinyu Guo et.al.|[2505.16133](http://arxiv.org/abs/2505.16133)|null|
+|**2025-05-22**|**Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools**|Panagiotis Lymperopoulos et.al.|[2505.16113](http://arxiv.org/abs/2505.16113)|null|
+|**2025-05-22**|**Continually Self-Improving Language Models for Bariatric Surgery Question--Answering**|Yash Kumar Atri et.al.|[2505.16102](http://arxiv.org/abs/2505.16102)|null|
+|**2025-05-22**|**Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search**|Seoyoung Ko et.al.|[2505.16096](http://arxiv.org/abs/2505.16096)|null|
+|**2025-05-21**|**Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains**|Yash Saxena et.al.|[2505.16014](http://arxiv.org/abs/2505.16014)|null|
+|**2025-05-21**|**BR-TaxQA-R: A Dataset for Question Answering with References for Brazilian Personal Income Tax Law, including case law**|Juvenal Domingos Júnior et.al.|[2505.15916](http://arxiv.org/abs/2505.15916)|null|
 |**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
 |**2025-05-21**|**HDLxGraph: Bridging Large Language Models and HDL Repositories via HDL Graph Databases**|Pingqing Zheng et.al.|[2505.15701](http://arxiv.org/abs/2505.15701)|**[link](https://github.com/nick-zheng-q/hdlxgraph)**|
 |**2025-05-21**|**Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions**|David Thulke et.al.|[2505.15633](http://arxiv.org/abs/2505.15633)|null|
