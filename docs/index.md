@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -309,7 +309,7 @@ layout: default
 |**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
 |**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755](http://arxiv.org/abs/2505.15755)|null|
 |**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
-|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
+|**2025-05-22**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
 |**2025-05-21**|**Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications**|Dikshit Chauhan et.al.|[2505.15741](http://arxiv.org/abs/2505.15741)|null|
 |**2025-05-20**|**Language Models use Lookbacks to Track Beliefs**|Nikhil Prakash et.al.|[2505.14685](http://arxiv.org/abs/2505.14685)|null|
 |**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
@@ -8910,7 +8910,7 @@ layout: default
 |**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381](http://arxiv.org/abs/2505.14381)|null|
 |**2025-05-20**|**Automatic Dataset Generation for Knowledge Intensive Question Answering Tasks**|Sizhe Yuen et.al.|[2505.14212](http://arxiv.org/abs/2505.14212)|null|
 |**2025-05-20**|**s3: You Don't Need That Much Data to Train a Search Agent via RL**|Pengcheng Jiang et.al.|[2505.14146](http://arxiv.org/abs/2505.14146)|**[link](https://github.com/pat-jj/s3)**|
-|**2025-05-20**|**Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning**|Wenlin Zhang et.al.|[2505.14069](http://arxiv.org/abs/2505.14069)|null|
+|**2025-05-22**|**Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning**|Wenlin Zhang et.al.|[2505.14069](http://arxiv.org/abs/2505.14069)|null|
 |**2025-05-20**|**Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning**|Ruiyi Yang et.al.|[2505.13994](http://arxiv.org/abs/2505.13994)|null|
 |**2025-05-20**|**Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation**|Jiankun Zhang et.al.|[2505.13957](http://arxiv.org/abs/2505.13957)|null|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
