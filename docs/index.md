@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246](http://arxiv.org/abs/2505.20246)|null|
+|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245](http://arxiv.org/abs/2505.20245)|null|
+|**2025-05-26**|**It's High Time: A Survey of Temporal Information Retrieval and Question Answering**|Bhawna Piryani et.al.|[2505.20243](http://arxiv.org/abs/2505.20243)|null|
+|**2025-05-26**|**RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models**|Nguyen Thach et.al.|[2505.20242](http://arxiv.org/abs/2505.20242)|null|
+|**2025-05-26**|**DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning**|Qi Cao et.al.|[2505.20241](http://arxiv.org/abs/2505.20241)|null|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|null|
+|**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236](http://arxiv.org/abs/2505.20236)|null|
+|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|null|
+|**2025-05-26**|**Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**|Yixin Cui et.al.|[2505.20223](http://arxiv.org/abs/2505.20223)|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|null|
+|**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
+|**2025-05-26**|**How to Improve the Robustness of Closed-Source Models on NLI**|Joe Stacey et.al.|[2505.20209](http://arxiv.org/abs/2505.20209)|null|
+|**2025-05-26**|**Evaluating Large Language Models for Code Review**|Umut Cihan et.al.|[2505.20206](http://arxiv.org/abs/2505.20206)|null|
+|**2025-05-26**|**PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology**|Jiabo Ma et.al.|[2505.20202](http://arxiv.org/abs/2505.20202)|null|
+|**2025-05-26**|**Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations**|Mohit Chandra et.al.|[2505.20201](http://arxiv.org/abs/2505.20201)|null|
+|**2025-05-26**|**Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking**|Pengxiang Li et.al.|[2505.20199](http://arxiv.org/abs/2505.20199)|null|
+|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196](http://arxiv.org/abs/2505.20196)|null|
+|**2025-05-26**|**FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement**|Bingguang Hao et.al.|[2505.20192](http://arxiv.org/abs/2505.20192)|null|
+|**2025-05-26**|**THiNK: Can Large Language Models Think-aloud?**|Yongan Yu et.al.|[2505.20184](http://arxiv.org/abs/2505.20184)|null|
+|**2025-05-26**|**An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation**|Shubham Gandhi et.al.|[2505.20182](http://arxiv.org/abs/2505.20182)|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155](http://arxiv.org/abs/2505.20155)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
@@ -8955,6 +8975,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing**|Rui Li et.al.|[2505.20245](http://arxiv.org/abs/2505.20245)|null|
+|**2025-05-26**|**It's High Time: A Survey of Temporal Information Retrieval and Question Answering**|Bhawna Piryani et.al.|[2505.20243](http://arxiv.org/abs/2505.20243)|null|
 |**2025-05-26**|**MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning**|Thang Nguyen et.al.|[2505.20096](http://arxiv.org/abs/2505.20096)|null|
 |**2025-05-26**|**CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models**|Chunyang Li et.al.|[2505.19864](http://arxiv.org/abs/2505.19864)|null|
 |**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847](http://arxiv.org/abs/2505.19847)|null|
