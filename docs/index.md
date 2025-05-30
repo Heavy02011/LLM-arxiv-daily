@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -9016,7 +9016,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers**|Navve Wasserman et.al.|[2505.22584](http://arxiv.org/abs/2505.22584)|null|
-|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571](http://arxiv.org/abs/2505.22571)|null|
+|**2025-05-29**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571](http://arxiv.org/abs/2505.22571)|null|
 |**2025-05-28**|**RAG-Zeval: Towards Robust and Interpretable Evaluation on RAG Responses through End-to-End Rule-Guided Reasoning**|Kun Li et.al.|[2505.22430](http://arxiv.org/abs/2505.22430)|null|
 |**2025-05-28**|**MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models**|Zhiyu Li et.al.|[2505.22101](http://arxiv.org/abs/2505.22101)|null|
 |**2025-05-28**|**Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning**|Chunyi Peng et.al.|[2505.22095](http://arxiv.org/abs/2505.22095)|null|
