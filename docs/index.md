@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -9103,7 +9103,7 @@ layout: default
 |**2025-06-04**|**ScoreRAG: A Retrieval-Augmented Generation Framework with Consistency-Relevance Scoring and Structured Summarization for News Generation**|Pei-Yun Lin et.al.|[2506.03704](http://arxiv.org/abs/2506.03704)|null|
 |**2025-06-04**|**ProRank: Prompt Warmup via Reinforcement Learning for Small Language Models Reranking**|Xianming Li et.al.|[2506.03487](http://arxiv.org/abs/2506.03487)|null|
 |**2025-06-03**|**RAGOps: Operating and Managing Retrieval-Augmented Generation Pipelines**|Xiwei Xu et.al.|[2506.03401](http://arxiv.org/abs/2506.03401)|null|
-|**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
+|**2025-06-04**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
 |**2025-06-03**|**ThinkTank: A Framework for Generalizing Domain-Specific AI Agent Systems into Universal Collaborative Intelligence Platforms**|Praneet Sai Madhu Surabhi et.al.|[2506.02931](http://arxiv.org/abs/2506.02931)|null|
 |**2025-06-03**|**DeepShop: A Benchmark for Deep Research Shopping Agents**|Yougang Lyu et.al.|[2506.02839](http://arxiv.org/abs/2506.02839)|null|
 |**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
@@ -10541,7 +10541,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-03**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
+|**2025-06-05**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
 |**2025-06-02**|**COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents**|Manish Bhatt et.al.|[2506.01900](http://arxiv.org/abs/2506.01900)|null|
 |**2025-05-31**|**Hybrid Cloud Security: Balancing Performance, Cost, and Compliance in Multi-Cloud Deployments**|Anjani kumar Polinati et.al.|[2506.00426](http://arxiv.org/abs/2506.00426)|null|
 |**2025-05-27**|**Updated baseline design for HALHF: the hybrid, asymmetric, linear Higgs factory**|C. A. Lindstrøm et.al.|[2505.21654](http://arxiv.org/abs/2505.21654)|null|
