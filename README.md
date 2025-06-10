@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**Reinforcement Pre-Training**|Qingxiu Dong et.al.|[2506.08007](http://arxiv.org/abs/2506.08007)|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001](http://arxiv.org/abs/2506.08001)|null|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
+|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/abs/2506.07972)|null|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
+|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
+|**2025-06-09**|**Correlated Errors in Large Language Models**|Elliot Kim et.al.|[2506.07962](http://arxiv.org/abs/2506.07962)|null|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
+|**2025-06-09**|**Language Models over Canonical Byte-Pair Encodings**|Tim Vieira et.al.|[2506.07956](http://arxiv.org/abs/2506.07956)|null|
+|**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948](http://arxiv.org/abs/2506.07948)|null|
+|**2025-06-09**|**Statistical Hypothesis Testing for Auditing Robustness in Language Models**|Paulius Rauba et.al.|[2506.07947](http://arxiv.org/abs/2506.07947)|null|
+|**2025-06-09**|**ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols**|Arnav Sheth et.al.|[2506.07945](http://arxiv.org/abs/2506.07945)|null|
+|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
+|**2025-06-09**|**Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**|Yang Liu et.al.|[2506.07942](http://arxiv.org/abs/2506.07942)|null|
+|**2025-06-09**|**Gradients: When Markets Meet Fine-tuning -- A Distributed Approach to Model Optimisation**|Christopher Subia-Waud et.al.|[2506.07940](http://arxiv.org/abs/2506.07940)|null|
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281](http://arxiv.org/abs/2506.06281)|null|
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
@@ -9148,6 +9168,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|null|
+|**2025-06-09**|**Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger**|Qi Yang et.al.|[2506.07785](http://arxiv.org/abs/2506.07785)|null|
+|**2025-06-09**|**GaRAGe: A Benchmark with Grounding Annotations for RAG Evaluation**|Ionut-Teodor Sorodoc et.al.|[2506.07671](http://arxiv.org/abs/2506.07671)|null|
+|**2025-06-09**|**Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation**|Roman Kyslyi et.al.|[2506.07617](http://arxiv.org/abs/2506.07617)|null|
+|**2025-06-09**|**SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding**|Nianbo Zeng et.al.|[2506.07600](http://arxiv.org/abs/2506.07600)|null|
+|**2025-06-09**|**DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction**|Solee Im et.al.|[2506.07510](http://arxiv.org/abs/2506.07510)|null|
+|**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449](http://arxiv.org/abs/2506.07449)|null|
+|**2025-06-09**|**MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems**|Peiru Yang et.al.|[2506.07399](http://arxiv.org/abs/2506.07399)|null|
+|**2025-06-09**|**Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models**|Haoyu Wang et.al.|[2506.07334](http://arxiv.org/abs/2506.07334)|null|
+|**2025-06-08**|**BRIGHT+: Upgrading the BRIGHT Benchmark with MARCUS, a Multi-Agent RAG Clean-Up Suite**|Liyang Chen et.al.|[2506.07116](http://arxiv.org/abs/2506.07116)|null|
+|**2025-06-08**|**Reasoning with RAGged events: RAG-Enhanced Event Knowledge Base Construction and reasoning with proof-assistants**|Stergios Chatzikyriakidis et.al.|[2506.07042](http://arxiv.org/abs/2506.07042)|null|
+|**2025-06-08**|**KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering**|Zhongze Luo et.al.|[2506.07037](http://arxiv.org/abs/2506.07037)|null|
+|**2025-06-08**|**AR-RAG: Autoregressive Retrieval Augmentation for Image Generation**|Jingyuan Qi et.al.|[2506.06962](http://arxiv.org/abs/2506.06962)|null|
+|**2025-06-07**|**Dynamic and Parametric Retrieval-Augmented Generation**|Weihang Su et.al.|[2506.06704](http://arxiv.org/abs/2506.06704)|null|
+|**2025-06-06**|**Beyond Facts: Evaluating Intent Hallucination in Large Language Models**|Yijie Hao et.al.|[2506.06539](http://arxiv.org/abs/2506.06539)|null|
+|**2025-06-06**|**Improving LLM-Powered EDA Assistants with RAFT**|Luyao Shi et.al.|[2506.06500](http://arxiv.org/abs/2506.06500)|null|
 |**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
 |**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208](http://arxiv.org/abs/2506.06208)|null|
 |**2025-06-06**|**Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems**|Haowei Wang et.al.|[2506.06151](http://arxiv.org/abs/2506.06151)|null|
@@ -10614,6 +10650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Cost-Optimal Active AI Model Evaluation**|Anastasios N. Angelopoulos et.al.|[2506.07949](http://arxiv.org/abs/2506.07949)|null|
 |**2025-06-05**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
 |**2025-06-02**|**COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents**|Manish Bhatt et.al.|[2506.01900](http://arxiv.org/abs/2506.01900)|null|
 |**2025-05-31**|**Hybrid Cloud Security: Balancing Performance, Cost, and Compliance in Multi-Cloud Deployments**|Anjani kumar Polinati et.al.|[2506.00426](http://arxiv.org/abs/2506.00426)|null|
