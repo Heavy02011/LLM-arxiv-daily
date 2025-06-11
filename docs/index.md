@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
+|**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038](http://arxiv.org/abs/2506.09038)|null|
+|**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034](http://arxiv.org/abs/2506.09034)|null|
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033](http://arxiv.org/abs/2506.09033)|null|
+|**2025-06-10**|**Do MIL Models Transfer?**|Daniel Shao et.al.|[2506.09022](http://arxiv.org/abs/2506.09022)|null|
+|**2025-06-10**|**SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning**|Ruiqi Zhang et.al.|[2506.09016](http://arxiv.org/abs/2506.09016)|null|
+|**2025-06-10**|**Learning to Reason Across Parallel Samples for LLM Reasoning**|Jianing Qi et.al.|[2506.09014](http://arxiv.org/abs/2506.09014)|null|
+|**2025-06-10**|**Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models**|Bei Chu et.al.|[2506.09002](http://arxiv.org/abs/2506.09002)|null|
+|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990](http://arxiv.org/abs/2506.08990)|null|
+|**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
+|**2025-06-10**|**On Finetuning Tabular Foundation Models**|Ivan Rubachev et.al.|[2506.08982](http://arxiv.org/abs/2506.08982)|null|
+|**2025-06-10**|**AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation**|Kaifeng He et.al.|[2506.08980](http://arxiv.org/abs/2506.08980)|null|
+|**2025-06-10**|**Propositional Logic for Probing Generalization in Neural Networks**|Anna Langedijk et.al.|[2506.08978](http://arxiv.org/abs/2506.08978)|null|
+|**2025-06-10**|**Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System**|Yuan Guo et.al.|[2506.08972](http://arxiv.org/abs/2506.08972)|null|
+|**2025-06-10**|**ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations**|Amirreza Rouhi et.al.|[2506.08968](http://arxiv.org/abs/2506.08968)|null|
+|**2025-06-10**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967](http://arxiv.org/abs/2506.08967)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
@@ -9155,6 +9175,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation**|Qinggang Zhang et.al.|[2506.08938](http://arxiv.org/abs/2506.08938)|null|
+|**2025-06-10**|**DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs**|Arie Cattan et.al.|[2506.08500](http://arxiv.org/abs/2506.08500)|null|
+|**2025-06-10**|**Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive- $k$**|Chihiro Taguchi et.al.|[2506.08479](http://arxiv.org/abs/2506.08479)|null|
+|**2025-06-10**|**Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing**|Christos Margadji et.al.|[2506.08462](http://arxiv.org/abs/2506.08462)|null|
+|**2025-06-10**|**CC-RAG: Structured Multi-Hop Reasoning via Theme-Based Causal Graphs**|Jash Rajesh Parekh et.al.|[2506.08364](http://arxiv.org/abs/2506.08364)|null|
+|**2025-06-09**|**LEANN: A Low-Storage Vector Index**|Yichuan Wang et.al.|[2506.08276](http://arxiv.org/abs/2506.08276)|null|
+|**2025-06-09**|**Hierarchical Lexical Graph for Enhanced Multi-Hop Retrieval**|Abdellah Ghassel et.al.|[2506.08074](http://arxiv.org/abs/2506.08074)|null|
+|**2025-06-09**|**Eliciting Fine-Tuned Transformer Capabilities via Inference-Time Techniques**|Asankhaya Sharma et.al.|[2506.08060](http://arxiv.org/abs/2506.08060)|**[link](https://github.com/codelion/optillm)**|
 |**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|null|
 |**2025-06-09**|**Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger**|Qi Yang et.al.|[2506.07785](http://arxiv.org/abs/2506.07785)|null|
 |**2025-06-09**|**GaRAGe: A Benchmark with Grounding Annotations for RAG Evaluation**|Ionut-Teodor Sorodoc et.al.|[2506.07671](http://arxiv.org/abs/2506.07671)|null|
@@ -10635,6 +10663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**An In-situ Solid Fuel Ramjet Thrust Monitoring and Regulation Framework Using Neural Networks and Adaptive Control**|Ryan DeBoskey et.al.|[2506.08157](http://arxiv.org/abs/2506.08157)|null|
 |**2025-06-09**|**Cost-Optimal Active AI Model Evaluation**|Anastasios N. Angelopoulos et.al.|[2506.07949](http://arxiv.org/abs/2506.07949)|null|
 |**2025-06-05**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
 |**2025-06-02**|**COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents**|Manish Bhatt et.al.|[2506.01900](http://arxiv.org/abs/2506.01900)|null|
