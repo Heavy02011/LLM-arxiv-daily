@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
+|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|null|
+|**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
+|**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
+|**2025-06-12**|**Distillation of atomistic foundation models across architectures and chemical domains**|John L. A. Gardner et.al.|[2506.10956](http://arxiv.org/abs/2506.10956)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
+|**2025-06-12**|**Domain2Vec: Vectorizing Datasets to Find the Optimal Data Mixture without Training**|Mozhi Zhang et.al.|[2506.10952](http://arxiv.org/abs/2506.10952)|null|
+|**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
+|**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
+|**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
+|**2025-06-12**|**Dynamic Epistemic Friction in Dialogue**|Timothy Obiso et.al.|[2506.10934](http://arxiv.org/abs/2506.10934)|null|
+|**2025-06-12**|**The Role of Generative AI in Facilitating Social Interactions: A Scoping Review**|T. T. J. E. Arets et.al.|[2506.10927](http://arxiv.org/abs/2506.10927)|null|
+|**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
+|**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920](http://arxiv.org/abs/2506.10920)|null|
+|**2025-06-12**|**Sequential-Parallel Duality in Prefix Scannable Models**|Morris Yau et.al.|[2506.10918](http://arxiv.org/abs/2506.10918)|null|
+|**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
+|**2025-06-12**|**Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**|Fei Lin et.al.|[2506.10912](http://arxiv.org/abs/2506.10912)|null|
+|**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
 |**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
@@ -9208,11 +9228,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**|Alireza Salemi et.al.|[2506.10844](http://arxiv.org/abs/2506.10844)|null|
+|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802](http://arxiv.org/abs/2506.10802)|null|
+|**2025-06-12**|**Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims**|Priyanka Kargupta et.al.|[2506.10728](http://arxiv.org/abs/2506.10728)|null|
+|**2025-06-12**|**Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges**|Jintao Liang et.al.|[2506.10408](http://arxiv.org/abs/2506.10408)|null|
+|**2025-06-12**|**TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning**|Xiaohan Yu et.al.|[2506.10380](http://arxiv.org/abs/2506.10380)|null|
+|**2025-06-12**|**Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements**|Seyed Moein Abtahi et.al.|[2506.10330](http://arxiv.org/abs/2506.10330)|null|
+|**2025-06-11**|**AURA: A Multi-Agent Intelligence Framework for Knowledge-Enhanced Cyber Threat Attribution**|Nanda Rani et.al.|[2506.10175](http://arxiv.org/abs/2506.10175)|null|
+|**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
 |**2025-06-11**|**Bridging the Gap Between Open-Source and Proprietary LLMs in Table QA**|Nikolas Evkarpidi et.al.|[2506.09657](http://arxiv.org/abs/2506.09657)|**[link](https://github.com/Nickolas-option/QA_on_Tabular_Data_SemEval2025_Task8)**|
 |**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
 |**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542](http://arxiv.org/abs/2506.09542)|null|
 |**2025-06-10**|**Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation**|Karl Löwenmark et.al.|[2506.09247](http://arxiv.org/abs/2506.09247)|null|
-|**2025-06-10**|**FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems**|Val Andrei Fajardo et.al.|[2506.09200](http://arxiv.org/abs/2506.09200)|null|
+|**2025-06-12**|**FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems**|Val Andrei Fajardo et.al.|[2506.09200](http://arxiv.org/abs/2506.09200)|null|
 |**2025-06-10**|**TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval**|Jialin Chen et.al.|[2506.09114](http://arxiv.org/abs/2506.09114)|null|
 |**2025-06-10**|**FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation**|Qinggang Zhang et.al.|[2506.08938](http://arxiv.org/abs/2506.08938)|null|
 |**2025-06-10**|**DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs**|Arie Cattan et.al.|[2506.08500](http://arxiv.org/abs/2506.08500)|null|
@@ -10704,6 +10732,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**On a mean-field Pontryagin minimum principle for stochastic optimal control**|Manfred Opper et.al.|[2506.10506](http://arxiv.org/abs/2506.10506)|null|
 |**2025-06-09**|**An In-situ Solid Fuel Ramjet Thrust Monitoring and Regulation Framework Using Neural Networks and Adaptive Control**|Ryan DeBoskey et.al.|[2506.08157](http://arxiv.org/abs/2506.08157)|null|
 |**2025-06-09**|**Cost-Optimal Active AI Model Evaluation**|Anastasios N. Angelopoulos et.al.|[2506.07949](http://arxiv.org/abs/2506.07949)|null|
 |**2025-06-05**|**Optimizing Software Defined Battery Systems for Transformer Protection**|Sonia Martin et.al.|[2506.03439](http://arxiv.org/abs/2506.03439)|null|
