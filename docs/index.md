@@ -297,7 +297,7 @@ layout: default
 |**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
 |**2025-06-12**|**ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark**|Kangwei Liu et.al.|[2506.10960](http://arxiv.org/abs/2506.10960)|null|
 |**2025-06-12**|**Distillation of atomistic foundation models across architectures and chemical domains**|John L. A. Gardner et.al.|[2506.10956](http://arxiv.org/abs/2506.10956)|null|
-|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|**[link](https://github.com/deepsoftwareanalytics/swe-factory)**|
 |**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
 |**2025-06-12**|**Domain2Vec: Vectorizing Datasets to Find the Optimal Data Mixture without Training**|Mozhi Zhang et.al.|[2506.10952](http://arxiv.org/abs/2506.10952)|null|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
@@ -9216,7 +9216,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-12**|**CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**|Alireza Salemi et.al.|[2506.10844](http://arxiv.org/abs/2506.10844)|null|
-|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802](http://arxiv.org/abs/2506.10802)|null|
+|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802](http://arxiv.org/abs/2506.10802)|**[link](https://github.com/terrierteam/pyterrier_rag)**|
 |**2025-06-12**|**Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims**|Priyanka Kargupta et.al.|[2506.10728](http://arxiv.org/abs/2506.10728)|null|
 |**2025-06-12**|**Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges**|Jintao Liang et.al.|[2506.10408](http://arxiv.org/abs/2506.10408)|null|
 |**2025-06-12**|**TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning**|Xiaohan Yu et.al.|[2506.10380](http://arxiv.org/abs/2506.10380)|null|
