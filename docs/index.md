@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -9241,21 +9241,21 @@ layout: default
 |**2025-06-13**|**Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards**|Jaehoon Yun et.al.|[2506.11474](http://arxiv.org/abs/2506.11474)|null|
 |**2025-06-13**|**Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs**|Linlin Wang et.al.|[2506.11415](http://arxiv.org/abs/2506.11415)|null|
 |**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
-|**2025-06-12**|**CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**|Alireza Salemi et.al.|[2506.10844](http://arxiv.org/abs/2506.10844)|null|
+|**2025-06-12**|**CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**|Alireza Salemi et.al.|[2506.10844](http://arxiv.org/abs/2506.10844)|**[link](https://github.com/muktac5/ciir-liverag)**|
 |**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802](http://arxiv.org/abs/2506.10802)|**[link](https://github.com/terrierteam/pyterrier_rag)**|
-|**2025-06-12**|**Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims**|Priyanka Kargupta et.al.|[2506.10728](http://arxiv.org/abs/2506.10728)|null|
+|**2025-06-12**|**Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims**|Priyanka Kargupta et.al.|[2506.10728](http://arxiv.org/abs/2506.10728)|**[link](https://github.com/pkargupta/claimspect)**|
 |**2025-06-12**|**Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges**|Jintao Liang et.al.|[2506.10408](http://arxiv.org/abs/2506.10408)|null|
-|**2025-06-12**|**TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning**|Xiaohan Yu et.al.|[2506.10380](http://arxiv.org/abs/2506.10380)|null|
+|**2025-06-12**|**TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning**|Xiaohan Yu et.al.|[2506.10380](http://arxiv.org/abs/2506.10380)|**[link](https://github.com/yxh-y/tablerag)**|
 |**2025-06-12**|**Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements**|Seyed Moein Abtahi et.al.|[2506.10330](http://arxiv.org/abs/2506.10330)|null|
 |**2025-06-11**|**AURA: A Multi-Agent Intelligence Framework for Knowledge-Enhanced Cyber Threat Attribution**|Nanda Rani et.al.|[2506.10175](http://arxiv.org/abs/2506.10175)|null|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
 |**2025-06-11**|**Bridging the Gap Between Open-Source and Proprietary LLMs in Table QA**|Nikolas Evkarpidi et.al.|[2506.09657](http://arxiv.org/abs/2506.09657)|**[link](https://github.com/Nickolas-option/QA_on_Tabular_Data_SemEval2025_Task8)**|
-|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
+|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|**[link](https://github.com/tianyao-aka/rapl)**|
 |**2025-06-11**|**KG-Infused RAG: Augmenting Corpus-Based RAG with External Knowledge Graphs**|Dingjun Wu et.al.|[2506.09542](http://arxiv.org/abs/2506.09542)|null|
 |**2025-06-10**|**Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation**|Karl Löwenmark et.al.|[2506.09247](http://arxiv.org/abs/2506.09247)|null|
-|**2025-06-12**|**FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems**|Val Andrei Fajardo et.al.|[2506.09200](http://arxiv.org/abs/2506.09200)|null|
+|**2025-06-12**|**FedRAG: A Framework for Fine-Tuning Retrieval-Augmented Generation Systems**|Val Andrei Fajardo et.al.|[2506.09200](http://arxiv.org/abs/2506.09200)|**[link](https://github.com/vectorinstitute/fed-rag)**|
 |**2025-06-10**|**TRACE: Grounding Time Series in Context for Multimodal Embedding and Retrieval**|Jialin Chen et.al.|[2506.09114](http://arxiv.org/abs/2506.09114)|null|
-|**2025-06-10**|**FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation**|Qinggang Zhang et.al.|[2506.08938](http://arxiv.org/abs/2506.08938)|null|
+|**2025-06-10**|**FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation**|Qinggang Zhang et.al.|[2506.08938](http://arxiv.org/abs/2506.08938)|**[link](https://github.com/deeplearnxmu/faithful-rag)**|
 |**2025-06-10**|**DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs**|Arie Cattan et.al.|[2506.08500](http://arxiv.org/abs/2506.08500)|null|
 |**2025-06-10**|**Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive- $k$**|Chihiro Taguchi et.al.|[2506.08479](http://arxiv.org/abs/2506.08479)|null|
 |**2025-06-10**|**Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing**|Christos Margadji et.al.|[2506.08462](http://arxiv.org/abs/2506.08462)|null|
