@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/abs/2506.13752)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|null|
+|**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
+|**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727](http://arxiv.org/abs/2506.13727)|null|
+|**2025-06-16**|**Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models**|Arjun Krishna et.al.|[2506.13726](http://arxiv.org/abs/2506.13726)|null|
+|**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
+|**2025-06-16**|**Value-Free Policy Optimization via Reward Partitioning**|Bilal Faye et.al.|[2506.13702](http://arxiv.org/abs/2506.13702)|null|
+|**2025-06-16**|**Balancing Knowledge Delivery and Emotional Comfort in Healthcare Conversational Systems**|Shang-Chi Tsai et.al.|[2506.13692](http://arxiv.org/abs/2506.13692)|null|
+|**2025-06-16**|**What Happens During the Loss Plateau? Understanding Abrupt Learning in Transformers**|Pulkit Gopalani et.al.|[2506.13688](http://arxiv.org/abs/2506.13688)|null|
+|**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
+|**2025-06-16**|**Turning Down the Heat: A Critical Analysis of Min-p Sampling in Language Models**|Rylan Schaeffer et.al.|[2506.13681](http://arxiv.org/abs/2506.13681)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
+|**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012](http://arxiv.org/abs/2506.12012)|null|
@@ -9235,6 +9255,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**LTRR: Learning To Rank Retrievers for LLMs**|To Eun Kim et.al.|[2506.13743](http://arxiv.org/abs/2506.13743)|null|
+|**2025-06-16**|**Tree-Based Text Retrieval via Hierarchical Clustering in RAGFrameworks: Application on Taiwanese Regulations**|Chia-Heng Yu et.al.|[2506.13607](http://arxiv.org/abs/2506.13607)|null|
+|**2025-06-16**|**Omni-AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented for Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589](http://arxiv.org/abs/2506.13589)|null|
+|**2025-06-16**|**CHILL at SemEval-2025 Task 2: You Can't Just Throw Entities and Hope -- Make Your LLM to Get Them Right**|Jaebok Lee et.al.|[2506.13070](http://arxiv.org/abs/2506.13070)|null|
+|**2025-06-16**|**Towards the Autonomous Optimization of Urban Logistics: Training Generative AI with Scientific Tools via Agentic Digital Twins and Model Context Protocol**|Haowen Xu et.al.|[2506.13068](http://arxiv.org/abs/2506.13068)|null|
+|**2025-06-16**|**Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026](http://arxiv.org/abs/2506.13026)|null|
+|**2025-06-15**|**Efficient Neuro-Symbolic Retrieval-Augmented Generation through Adaptive Query Routing**|Safayat Bin Hakim et.al.|[2506.12981](http://arxiv.org/abs/2506.12981)|null|
+|**2025-06-15**|**eLog analysis for accelerators: status and future outlook**|Antonin Sulc et.al.|[2506.12949](http://arxiv.org/abs/2506.12949)|null|
+|**2025-06-14**|**DoTA-RAG: Dynamic of Thought Aggregation RAG**|Saksorn Ruangtanusak et.al.|[2506.12571](http://arxiv.org/abs/2506.12571)|null|
+|**2025-06-14**|**FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation**|Zhuocheng Zhang et.al.|[2506.12494](http://arxiv.org/abs/2506.12494)|null|
+|**2025-06-14**|**MALM: A Multi-Information Adapter for Large Language Models to Mitigate Hallucination**|Ao Jia et.al.|[2506.12483](http://arxiv.org/abs/2506.12483)|null|
+|**2025-06-14**|**The Budget AI Researcher and the Power of RAG Chains**|Franklin Lee et.al.|[2506.12317](http://arxiv.org/abs/2506.12317)|null|
+|**2025-06-13**|**Large Language Models for History, Philosophy, and Sociology of Science: Interpretive Uses, Methodological Challenges, and Critical Perspectives**|Arno Simons et.al.|[2506.12242](http://arxiv.org/abs/2506.12242)|null|
+|**2025-06-13**|**Maximally-Informative Retrieval for State Space Model Generation**|Evan Becker et.al.|[2506.12149](http://arxiv.org/abs/2506.12149)|null|
 |**2025-06-13**|**Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training**|Judson Leroy Dean Haynes IV et.al.|[2506.11890](http://arxiv.org/abs/2506.11890)|null|
 |**2025-06-13**|**Retrieval-Augmented Code Review Comment Generation**|Hyunsun Hong et.al.|[2506.11591](http://arxiv.org/abs/2506.11591)|null|
 |**2025-06-13**|**RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning**|Yu Wang et.al.|[2506.11555](http://arxiv.org/abs/2506.11555)|null|
