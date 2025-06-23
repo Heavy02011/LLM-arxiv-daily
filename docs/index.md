@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning**|Xuechen Zhang et.al.|[2506.17211](http://arxiv.org/abs/2506.17211)|null|
+|**2025-06-20**|**Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**|Kathleen C. Fraser et.al.|[2506.17209](http://arxiv.org/abs/2506.17209)|null|
+|**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208](http://arxiv.org/abs/2506.17208)|null|
+|**2025-06-20**|**DreamCube: 3D Panorama Generation via Multi-plane Synchronization**|Yukun Huang et.al.|[2506.17206](http://arxiv.org/abs/2506.17206)|null|
+|**2025-06-20**|**Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**|Jiekai Ma et.al.|[2506.17203](http://arxiv.org/abs/2506.17203)|null|
+|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196](http://arxiv.org/abs/2506.17196)|null|
+|**2025-06-20**|**CLEAR-3K: Assessing Causal Explanatory Capabilities in Language Models**|Naiming Liu et.al.|[2506.17180](http://arxiv.org/abs/2506.17180)|null|
+|**2025-06-20**|**The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making**|Abinitha Gourabathina et.al.|[2506.17163](http://arxiv.org/abs/2506.17163)|null|
+|**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162](http://arxiv.org/abs/2506.17162)|null|
+|**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
+|**2025-06-20**|**MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification**|David Jacob Drexlin et.al.|[2506.17140](http://arxiv.org/abs/2506.17140)|null|
+|**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
+|**2025-06-20**|**When Can Model-Free Reinforcement Learning be Enough for Thinking?**|Josiah P. Hanna et.al.|[2506.17124](http://arxiv.org/abs/2506.17124)|null|
+|**2025-06-20**|**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?**|Adithya Bhaskar et.al.|[2506.17121](http://arxiv.org/abs/2506.17121)|null|
+|**2025-06-20**|**Reassessing Code Authorship Attribution in the Era of Language Models**|Atish Kumar Dipongkor et.al.|[2506.17120](http://arxiv.org/abs/2506.17120)|null|
+|**2025-06-20**|**Are Bias Evaluation Methods Biased ?**|Lina Berrayana et.al.|[2506.17111](http://arxiv.org/abs/2506.17111)|null|
+|**2025-06-20**|**Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving**|Chuxue Cao et.al.|[2506.17104](http://arxiv.org/abs/2506.17104)|null|
 |**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/abs/2506.15683)|null|
 |**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
 |**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679](http://arxiv.org/abs/2506.15679)|null|
@@ -9295,6 +9315,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
+|**2025-06-20**|**PersonalAI: Towards digital twins in the graph form**|Mikhail Menschikov et.al.|[2506.17001](http://arxiv.org/abs/2506.17001)|null|
+|**2025-06-20**|**RAGentA: Multi-Agent Retrieval-Augmented Generation for Attributed Question Answering**|Ines Besrour et.al.|[2506.16988](http://arxiv.org/abs/2506.16988)|null|
+|**2025-06-20**|**Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting**|Michał Wawer et.al.|[2506.16813](http://arxiv.org/abs/2506.16813)|null|
+|**2025-06-20**|**eSapiens: A Real-World NLP Framework for Multimodal Document Understanding and Enterprise Knowledge Processing**|Isaac Shi et.al.|[2506.16768](http://arxiv.org/abs/2506.16768)|null|
+|**2025-06-19**|**REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing**|Kangqi Chen et.al.|[2506.16444](http://arxiv.org/abs/2506.16444)|null|
+|**2025-06-19**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172](http://arxiv.org/abs/2506.16172)|null|
+|**2025-06-19**|**Enhancing Document-Level Question Answering via Multi-Hop Retrieval-Augmented Generation with LLaMA 3**|Xinyue Huang et.al.|[2506.16037](http://arxiv.org/abs/2506.16037)|null|
+|**2025-06-19**|**Vision-Guided Chunking Is All You Need: Enhancing RAG with Multimodal Document Understanding**|Vishesh Tripathi et.al.|[2506.16035](http://arxiv.org/abs/2506.16035)|null|
+|**2025-06-19**|**HybridRAG-based LLM Agents for Low-Carbon Optimization in Low-Altitude Economy Networks**|Jinbo Wen et.al.|[2506.15947](http://arxiv.org/abs/2506.15947)|null|
+|**2025-06-18**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
+|**2025-06-18**|**MoR: Better Handling Diverse Queries with a Mixture of Sparse, Dense, and Human Retrievers**|Jushaan Singh Kalra et.al.|[2506.15862](http://arxiv.org/abs/2506.15862)|null|
 |**2025-06-18**|**cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree**|Yilin Zhang et.al.|[2506.15655](http://arxiv.org/abs/2506.15655)|null|
 |**2025-06-18**|**SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification**|Chengye Wang et.al.|[2506.15569](http://arxiv.org/abs/2506.15569)|**[link](https://github.com/qdrhhhh/sciver)**|
 |**2025-06-18**|**Lessons from Training Grounded LLMs with Verifiable Rewards**|Shang Hong Sim et.al.|[2506.15522](http://arxiv.org/abs/2506.15522)|null|
