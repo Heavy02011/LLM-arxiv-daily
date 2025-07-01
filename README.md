@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
+|**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
+|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-06-30**|**Computational Detection of Intertextual Parallels in Biblical Hebrew: A Benchmark Study Using Transformer-Based Language Models**|David M. Smiley et.al.|[2506.24117](http://arxiv.org/abs/2506.24117)|null|
+|**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106](http://arxiv.org/abs/2506.24106)|null|
+|**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
+|**2025-06-30**|**Logit-Gap Steering: Efficient Short-Suffix Jailbreaks for Aligned Large Language Models**|Tung-Ling Li et.al.|[2506.24056](http://arxiv.org/abs/2506.24056)|null|
+|**2025-06-30**|**Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC**|Xinming Wei et.al.|[2506.24045](http://arxiv.org/abs/2506.24045)|null|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
+|**2025-06-30**|**Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data**|Shubhabrata Mukherjee et.al.|[2506.24039](http://arxiv.org/abs/2506.24039)|null|
+|**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019](http://arxiv.org/abs/2506.24019)|null|
+|**2025-06-30**|**EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations**|Hyunjong Kim et.al.|[2506.24016](http://arxiv.org/abs/2506.24016)|null|
+|**2025-06-30**|**Large Language Models Don't Make Sense of Word Problems. A Scoping Review from a Mathematics Education Perspective**|Anselm R. Strohmaier et.al.|[2506.24006](http://arxiv.org/abs/2506.24006)|null|
+|**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
+|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
+|**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982](http://arxiv.org/abs/2506.23982)|null|
+|**2025-06-30**|**TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation**|Renren Jin et.al.|[2506.23979](http://arxiv.org/abs/2506.23979)|null|
+|**2025-06-30**|**Visual and Memory Dual Adapter for Multi-Modal Object Tracking**|Boyue Xu et.al.|[2506.23972](http://arxiv.org/abs/2506.23972)|null|
 |**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
 |**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419](http://arxiv.org/abs/2506.22419)|null|
 |**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405](http://arxiv.org/abs/2506.22405)|null|
@@ -9428,6 +9448,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Bridging the Gap with Retrieval-Augmented Generation: Making Prosthetic Device User Manuals Available in Marginalised Languages**|Ikechukwu Ogbonna et.al.|[2506.23958](http://arxiv.org/abs/2506.23958)|null|
+|**2025-06-29**|**Benchmarking Deep Search over Heterogeneous Enterprise Data**|Prafulla Kumar Choubey et.al.|[2506.23139](http://arxiv.org/abs/2506.23139)|null|
+|**2025-06-29**|**LLM-Assisted Question-Answering on Technical Documents Using Structured Data-Aware Retrieval Augmented Generation**|Shadman Sobhan et.al.|[2506.23136](http://arxiv.org/abs/2506.23136)|null|
+|**2025-06-28**|**Machine Assistant with Reliable Knowledge: Enhancing Student Learning via RAG-based Retrieval**|Yongsheng Lian et.al.|[2506.23026](http://arxiv.org/abs/2506.23026)|null|
+|**2025-06-28**|**MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering**|Mai A. Shaaban et.al.|[2506.22900](http://arxiv.org/abs/2506.22900)|null|
+|**2025-06-28**|**Knowledge Augmented Finetuning Matters in both RAG and Agent Based Dialog Systems**|Yucheng Cai et.al.|[2506.22852](http://arxiv.org/abs/2506.22852)|null|
+|**2025-06-28**|**Enhancing Android Malware Detection with Retrieval-Augmented Generation**|Saraga S. et.al.|[2506.22750](http://arxiv.org/abs/2506.22750)|null|
+|**2025-06-28**|**P4OMP: Retrieval-Augmented Prompting for OpenMP Parallelism in Serial Code**|Wali Mohammad Abdullah et.al.|[2506.22703](http://arxiv.org/abs/2506.22703)|null|
+|**2025-06-27**|**Evaluating Hybrid Retrieval Augmented Generation using Dynamic Test Sets: LiveRAG Challenge**|Chase Fensore et.al.|[2506.22644](http://arxiv.org/abs/2506.22644)|null|
+|**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518](http://arxiv.org/abs/2506.22518)|null|
 |**2025-06-27**|**Education-Oriented Graph Retrieval-Augmented Generation for Learning Path Recommendation**|Xinghe Cheng et.al.|[2506.22303](http://arxiv.org/abs/2506.22303)|null|
 |**2025-06-27**|**JointRank: Rank Large Set with Single Pass**|Evgeny Dedov et.al.|[2506.22262](http://arxiv.org/abs/2506.22262)|null|
 |**2025-06-27**|**UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2506.22210](http://arxiv.org/abs/2506.22210)|null|
