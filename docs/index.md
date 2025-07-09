@@ -291,6 +291,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
+|**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
+|**2025-07-08**|**Aligned Textual Scoring Rules**|Yuxuan Lu et.al.|[2507.06221](http://arxiv.org/abs/2507.06221)|null|
+|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**Ontological differentiation as a measure of semantic accuracy**|Pablo Garcia-Cuadrillero et.al.|[2507.06208](http://arxiv.org/abs/2507.06208)|null|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196](http://arxiv.org/abs/2507.06196)|null|
+|**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192](http://arxiv.org/abs/2507.06192)|null|
+|**2025-07-08**|**The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains**|Scott Geng et.al.|[2507.06187](http://arxiv.org/abs/2507.06187)|null|
+|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
+|**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157](http://arxiv.org/abs/2507.06157)|null|
+|**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
+|**2025-07-08**|**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**|Dongsheng Zuo et.al.|[2507.06127](http://arxiv.org/abs/2507.06127)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
@@ -9495,9 +9515,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening**|Zhijun Guo et.al.|[2507.05984](http://arxiv.org/abs/2507.05984)|null|
+|**2025-07-08**|**Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models**|Marc Oriol et.al.|[2507.05981](http://arxiv.org/abs/2507.05981)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**Flippi: End To End GenAI Assistant for E-Commerce**|Anand A. Rajasekar et.al.|[2507.05788](http://arxiv.org/abs/2507.05788)|null|
+|**2025-07-08**|**HIRAG: Hierarchical-Thought Instruction-Tuning Retrieval-Augmented Generation**|YiHan Jiao et.al.|[2507.05714](http://arxiv.org/abs/2507.05714)|null|
+|**2025-07-08**|**DRAGON: Dynamic RAG Benchmark On News**|Fedor Chernogorskii et.al.|[2507.05713](http://arxiv.org/abs/2507.05713)|null|
+|**2025-07-08**|**SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression**|Yiqiao Jin et.al.|[2507.05633](http://arxiv.org/abs/2507.05633)|null|
+|**2025-07-08**|**Domain adaptation of large language models for geotechnical applications**|Lei Fan et.al.|[2507.05613](http://arxiv.org/abs/2507.05613)|null|
+|**2025-07-08**|**Beyond Retrieval: Ensembling Cross-Encoders and GPT Rerankers with LLMs for Biomedical QA**|Shashank Verma et.al.|[2507.05577](http://arxiv.org/abs/2507.05577)|null|
+|**2025-07-07**|**Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis**|Karishma Thakrar et.al.|[2507.05520](http://arxiv.org/abs/2507.05520)|null|
+|**2025-07-07**|**GLOSS: Group of LLMs for Open-Ended Sensemaking of Passive Sensing Data for Health and Wellbeing**|Akshat Choube et.al.|[2507.05461](http://arxiv.org/abs/2507.05461)|null|
+|**2025-07-07**|**LoRA-Augmented Generation (LAG) for Knowledge-Intensive Language Tasks**|William Fleshman et.al.|[2507.05346](http://arxiv.org/abs/2507.05346)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
 |**2025-07-07**|**The Hidden Threat in Plain Text: Attacking RAG Data Loaders**|Alberto Castagnaro et.al.|[2507.05093](http://arxiv.org/abs/2507.05093)|null|
-|**2025-07-07**|**SIGIR 2025 -- LiveRAG Challenge Report**|David Carmel et.al.|[2507.04942](http://arxiv.org/abs/2507.04942)|null|
+|**2025-07-08**|**SIGIR 2025 -- LiveRAG Challenge Report**|David Carmel et.al.|[2507.04942](http://arxiv.org/abs/2507.04942)|null|
 |**2025-07-07**|**SHARP: Shared State Reduction for Efficient Matching of Sequential Patterns**|Cong Yu et.al.|[2507.04872](http://arxiv.org/abs/2507.04872)|null|
 |**2025-07-07**|**$\textit{Grahak-Nyay:}$ Consumer Grievance Redressal through Large Language Models**|Shrey Ganatra et.al.|[2507.04854](http://arxiv.org/abs/2507.04854)|null|
 |**2025-07-07**|**UrbanMind: Towards Urban General Intelligence via Tool-Enhanced Retrieval-Augmented Generation and Multilevel Optimization**|Kai Yang et.al.|[2507.04706](http://arxiv.org/abs/2507.04706)|null|
