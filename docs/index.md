@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -9587,7 +9587,7 @@ layout: default
 |**2025-07-10**|**From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry**|Chetan Arora et.al.|[2507.07689](http://arxiv.org/abs/2507.07689)|null|
 |**2025-07-10**|**FrugalRAG: Learning to retrieve and reason for multi-hop QA**|Abhinav Java et.al.|[2507.07634](http://arxiv.org/abs/2507.07634)|null|
 |**2025-07-10**|**The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora**|Chen Amiraz et.al.|[2507.07543](http://arxiv.org/abs/2507.07543)|null|
-|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-12**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-09**|**Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation**|Anirban Saha Anik et.al.|[2507.07307](http://arxiv.org/abs/2507.07307)|null|
 |**2025-07-09**|**Compute Can't Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure**|Myoungsoo Jung et.al.|[2507.07223](http://arxiv.org/abs/2507.07223)|null|
 |**2025-07-09**|**Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics**|Xueqing Xu et.al.|[2507.07155](http://arxiv.org/abs/2507.07155)|null|
