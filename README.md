@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
+|**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
+|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation**|Sangmin Bae et.al.|[2507.10524](http://arxiv.org/abs/2507.10524)|null|
+|**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|
+|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
+|**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
+|**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
+|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
+|**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
+|**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
+|**2025-07-14**|**Extracting Important Tokens in E-Commerce Queries with a Tag Interaction-Aware Transformer Model**|Md. Ahsanul Kabir et.al.|[2507.10385](http://arxiv.org/abs/2507.10385)|null|
+|**2025-07-14**|**Test-Time Canonicalization by Foundation Models for Robust Perception**|Utkarsh Singhal et.al.|[2507.10375](http://arxiv.org/abs/2507.10375)|null|
+|**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
 |**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802](http://arxiv.org/abs/2507.08802)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|null|
@@ -9588,6 +9608,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
+|**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
+|**2025-07-14**|**Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG**|Fangzheng Tian et.al.|[2507.10411](http://arxiv.org/abs/2507.10411)|null|
+|**2025-07-14**|**Accelerating Automatic Program Repair with Dual Retrieval-Augmented Fine-Tuning and Patch Generation on Large Language Models**|Hanyang Guo et.al.|[2507.10103](http://arxiv.org/abs/2507.10103)|null|
+|**2025-07-14**|**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**|Yang Xiao et.al.|[2507.10070](http://arxiv.org/abs/2507.10070)|null|
+|**2025-07-14**|**Demonstrating the Octopi-1.5 Visual-Tactile-Language Model**|Samson Yu et.al.|[2507.09985](http://arxiv.org/abs/2507.09985)|null|
+|**2025-07-14**|**Enhancing Retrieval Augmented Generation with Hierarchical Text Segmentation Chunking**|Hai Toan Nguyen et.al.|[2507.09935](http://arxiv.org/abs/2507.09935)|null|
+|**2025-07-13**|**Can Group Relative Policy Optimization Improve Thai Legal Reasoning and Question Answering?**|Pawitsapak Akarajaradwong et.al.|[2507.09638](http://arxiv.org/abs/2507.09638)|null|
+|**2025-07-13**|**eSapiens: A Platform for Secure and Auditable Retrieval-Augmented Generation**|Isaac Shi et.al.|[2507.09588](http://arxiv.org/abs/2507.09588)|null|
+|**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
+|**2025-07-12**|**Knowledge Conceptualization Impacts RAG Efficacy**|Chris Davis Jaldi et.al.|[2507.09389](http://arxiv.org/abs/2507.09389)|null|
+|**2025-07-12**|**HedraRAG: Coordinating LLM Generation and Database Retrieval in Heterogeneous RAG Serving**|Zhengding Hu et.al.|[2507.09138](http://arxiv.org/abs/2507.09138)|null|
+|**2025-07-11**|**GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval**|Savini Kashmira et.al.|[2507.08945](http://arxiv.org/abs/2507.08945)|null|
 |**2025-07-11**|**Using Large Language Models for Legal Decision-Making in Austrian Value-Added Tax Law: An Experimental Study**|Marina Luketina et.al.|[2507.08468](http://arxiv.org/abs/2507.08468)|null|
 |**2025-07-11**|**CUE-RAG: Towards Accurate and Cost-Efficient Graph-Based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|null|
 |**2025-07-11**|**KGRAG-Ex: Explainable Retrieval-Augmented Generation with Knowledge Graph-based Perturbations**|Georgios Balanos et.al.|[2507.08443](http://arxiv.org/abs/2507.08443)|null|
@@ -11258,6 +11291,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**IteraOptiRacing: A Unified Planning-Control Framework for Real-time Autonomous Racing for Iterative Optimal Performance**|Yifan Zeng et.al.|[2507.09714](http://arxiv.org/abs/2507.09714)|null|
 |**2025-07-10**|**Ammonia, Methane, Hydrogen and Methanol Produced in Remote Renewable Energy Hubs: a Comparative Quantitative Analysis**|Antoine Larbanois et.al.|[2507.07681](http://arxiv.org/abs/2507.07681)|null|
 |**2025-07-04**|**Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA**|Jindong Li et.al.|[2507.03308](http://arxiv.org/abs/2507.03308)|null|
 |**2025-06-18**|**Operational Control of a Multi-energy District Heating System: Comparison of Model-Predictive Control and Rule-Based Control**|Michael Nikhil Descamps et.al.|[2506.15197](http://arxiv.org/abs/2506.15197)|null|
