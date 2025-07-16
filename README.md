@@ -300,6 +300,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
+|**2025-07-15**|**Seq vs Seq: An Open Suite of Paired Encoders and Decoders**|Orion Weller et.al.|[2507.11412](http://arxiv.org/abs/2507.11412)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364](http://arxiv.org/abs/2507.11364)|null|
+|**2025-07-15**|**What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models**|Alexis Brissard et.al.|[2507.11356](http://arxiv.org/abs/2507.11356)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
+|**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
+|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
@@ -9608,6 +9628,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**HKGAI-V1: Towards Regional Sovereign Large Language Model for Hong Kong**|Sirui Han et.al.|[2507.11502](http://arxiv.org/abs/2507.11502)|null|
+|**2025-07-14**|**Extracting Document Relations from Search Corpus by Marginalizing over User Queries**|Yuki Iwamoto et.al.|[2507.10726](http://arxiv.org/abs/2507.10726)|null|
+|**2025-07-11**|**AutoRAG-LoRA: Hallucination-Triggered Knowledge Retuning via Lightweight Adapters**|Kaushik Dwivedi et.al.|[2507.10586](http://arxiv.org/abs/2507.10586)|null|
+|**2025-07-11**|**ARPaCCino: An Agentic-RAG for Policy as Code Compliance**|Francesco Romeo et.al.|[2507.10584](http://arxiv.org/abs/2507.10584)|null|
+|**2025-07-11**|**Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions**|Logé Cécile et.al.|[2507.10577](http://arxiv.org/abs/2507.10577)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
 |**2025-07-14**|**Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG**|Fangzheng Tian et.al.|[2507.10411](http://arxiv.org/abs/2507.10411)|null|
